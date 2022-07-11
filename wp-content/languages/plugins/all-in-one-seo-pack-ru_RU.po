@@ -1,0 +1,4479 @@
+# Translation of Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) in Russian
+# This file is distributed under the same license as the Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release) package.
+msgid ""
+msgstr ""
+"PO-Revision-Date: 2022-06-09 21:04:07+0000\n"
+"MIME-Version: 1.0\n"
+"Content-Type: text/plain; charset=UTF-8\n"
+"Content-Transfer-Encoding: 8bit\n"
+"Plural-Forms: nplurals=3; plural=(n % 10 == 1 && n % 100 != 11) ? 0 : ((n % 10 >= 2 && n % 10 <= 4 && (n % 100 < 12 || n % 100 > 14)) ? 1 : 2);\n"
+"X-Generator: GlotPress/4.0.0-alpha.1\n"
+"Language: ru\n"
+"Project-Id-Version: Plugins - All in One SEO – Best WordPress SEO Plugin – Easily Improve SEO Rankings &amp; Increase Traffic - Stable (latest release)\n"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin name ("All in One SEO"), 4 - Opening HTML link tag, 5 - Closing HTML
+#. link tag.
+#: app/init/notices.php:173
+msgid "%1$sNote:%2$s %3$s will be discontinuing support for WordPress versions older than version 5.3 by the end of 2022. %4$sRead more for additional information.%5$s"
+msgstr "%1$sВнимание:%2$s %3$s прекратит поддержку версий WordPress старше версии 5.3 к концу 2022 года. %4$sПодробности здесь.%5$s"
+
+#. Translators: 1 - Blog name, 2 - Separator (raquo), 3 - Post type name.
+#: app/Common/Rss.php:302
+msgid "%1$s %2$s %3$s Feed"
+msgstr "Лента %1$s %2$s %3$s"
+
+#. Translators: 1 - Blog name, 2 - Separator (raquo), 3 - Search query.
+#: app/Common/Rss.php:300
+msgid "%1$s %2$s Search Results for &#8220;%3$s&#8221; Feed"
+msgstr "Лента %1$s %2$s Поиск &#8220;%3$s&#8221;"
+
+#. Translators: 1 - Blog name, 2 - Separator (raquo), 3 - Author name.
+#: app/Common/Rss.php:298
+msgid "%1$s %2$s Posts by %3$s Feed"
+msgstr "Лента %1$s %2$s Записи пользователя %3$s"
+
+#. Translators: 1 - Blog name, 2 - Separator (raquo), 3 - Term name, 4:
+#. Taxonomy singular name.
+#: app/Common/Rss.php:296
+msgid "%1$s %2$s %3$s %4$s Feed"
+msgstr "Лента %1$s %2$s %3$s %4$s"
+
+#. Translators: 1 - Blog name, 2 - Separator (raquo), 3 - Tag name.
+#: app/Common/Rss.php:294
+msgid "%1$s %2$s %3$s Tag Feed"
+msgstr "Лента метки %1$s %2$s %3$s"
+
+#. Translators: 1 - Blog name, 2 - Separator (raquo), 3 - Category name.
+#: app/Common/Rss.php:292
+msgid "%1$s %2$s %3$s Category Feed"
+msgstr "Лента рубрики %1$s %2$s %3$s"
+
+#. Translators: 1 - Blog name, 2 - Separator (raquo), 3 - Post title.
+#: app/Common/Rss.php:290
+msgid "%1$s %2$s %3$s Comments Feed"
+msgstr "Лента комментариев %1$s %2$s %3$s"
+
+#. Translators: Separator between blog name and feed type in feed links.
+#: app/Common/Rss.php:288
+msgctxt "feed link"
+msgid "-"
+msgstr "-"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Api/Wizard.php:297
+msgid "You selected to install the free OptinMonster Conversion Tools plugin during the setup of %1$s, but there was an issue during installation. Click below to manually install."
+msgstr "Вы выбрали установку бесплатного плагина OptinMonster Conversion Tools во время установки %1$s, но во время установки возникла проблема. Нажмите ниже, чтобы установить вручную."
+
+#: app/Common/Api/Wizard.php:294 app/Common/Api/Wizard.php:302
+msgid "Install OptinMonster"
+msgstr "Установить OptinMonster"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Dashboard.php:61
+msgid "%s Overview"
+msgstr " Обзор %s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Dashboard.php:45
+msgid "%s Setup"
+msgstr "Установка %s"
+
+#: app/Common/Views/admin/settings-page.php:180
+msgid "View supported browsers"
+msgstr "Открыть список поддерживаемых браузеров"
+
+#. Translators: 1 - "AIOSEO".
+#: app/Common/Views/admin/settings-page.php:173
+msgid "You are using a browser which is no longer supported by %1$s. Please update or use another browser in order to access the plugin settings."
+msgstr "Вы используете браузер, который больше не поддерживается %1$s. Пожалуйста, обновите или используйте другой браузер, чтобы получить доступ к настройкам плагина."
+
+#: app/Common/Views/admin/settings-page.php:167
+msgid "Your browser version is not supported"
+msgstr "Версия вашего браузера не поддерживается."
+
+#: app/Common/Views/admin/settings-page.php:162
+msgid "Resolve This Issue"
+msgstr "Решить эту проблему"
+
+#. Translators: 1 - "AIOSEO".
+#: app/Common/Views/admin/settings-page.php:154
+msgid "Copy the error message above and paste it in a message to the %1$s support team."
+msgstr "Скопируйте приведенное выше сообщение об ошибке и вставьте его в сообщение в службу поддержки %1$s."
+
+#. Translators: 1 - Line break HTML tag, 2 - "AIOSEO".
+#: app/Common/Views/admin/settings-page.php:140
+msgid "There seems to be an issue running JavaScript on your website. %1$s%2$s is built with JavaScript to give you the best experience possible."
+msgstr "Похоже, что на вашем веб-сайте есть проблема с использованием JavaScript. %1$s%2$s разработан с использованием JavaScript, чтобы предоставить вам наилучшие возможности."
+
+#: app/Common/Views/admin/settings-page.php:134
+msgid "Ooops! It Appears JavaScript Didn’t Load"
+msgstr "Похоже, что JavaScript не загрузился."
+
+#. Translators: 1 - The sitemap name, 2 - The current page.
+#: app/Common/Sitemap/Xsl.php:64
+msgid "%1$s Sitemap %2$s"
+msgstr "Карта сайта %1$s - %2$s"
+
+#. Translators: Minimum input length in characters to start searching posts in
+#. the "Insert/edit link" modal.
+#: app/Common/Admin/Admin.php:312
+msgctxt "minimum input length for searching post links"
+msgid "3"
+msgstr "3"
+
+#: app/Common/Admin/Admin.php:303
+msgid "Link selected."
+msgstr "Ссылка выбрана."
+
+#: app/Common/Admin/Admin.php:297
+msgid "Insert/edit link"
+msgstr "Вставить/изменить ссылку"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:847
+msgid "six-figure"
+msgstr "шестизначная сумма"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:791
+msgid "profit"
+msgstr "выгода"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:751
+msgid "fulfill"
+msgstr "выполнение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:736
+msgid "horrific"
+msgstr "ужасный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:706
+msgid "flush"
+msgstr "заподлицо"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:698
+msgid "fleece"
+msgstr "руно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:696
+msgid "fire"
+msgstr "пожар"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:638
+msgid "first"
+msgstr "первый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:437
+msgid "profitable"
+msgstr "прибыльный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:432
+msgid "sure fire"
+msgstr "гарантированно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:426
+msgid "simplified"
+msgstr "упрощённый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:425
+msgid "terrific"
+msgstr "потрясающий"
+
+#: app/Common/Standalone/PageBuilders/Elementor.php:91
+msgid "AIOSEO"
+msgstr "AIOSEO"
+
+#: app/Common/Models/Post.php:442
+msgid "No content yet"
+msgstr "Содержимого пока нет"
+
+#: app/Common/Api/Plugins.php:75
+msgid "Plugin update failed. Please check permissions and try again."
+msgstr "Ошибка обновления плагина. Проверьте разрешения и повторите попытку."
+
+#: app/Common/Api/Analyze.php:130
+msgid "Please enter a valid headline."
+msgstr "Введите корректный заголовок."
+
+#: app/Common/Admin/Admin.php:178 app/Common/Admin/Admin.php:179
+msgid "Link Assistant"
+msgstr "Помощник по ссылкам"
+
+#. Translators: 1 - The generated date, 2 - The generated time.
+#: app/Common/Views/sitemap/xsl/templates/header.php:60
+msgid "and was generated on %1$s at %2$s"
+msgstr "и была создана %1$s в %2$s"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:49
+msgid "sitemap"
+msgstr "карта сайта"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:30
+msgid "High"
+msgstr "Высокий"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:29
+msgid "Medium"
+msgstr "Средний"
+
+#: app/Common/Views/sitemap/xsl/templates/format-priority.php:28
+msgid "Low"
+msgstr "Низкий"
+
+#. Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:48
+msgid "Didn't expect to see this? Make sure your sitemap is enabled and your content is set to be indexed. %1$sLearn More →%2$s"
+msgstr "Не ожидали увидеть это? Убедитесь, что ваша карта сайта включена и содержимое вашего сайта настроено на индексацию. %1$sУзнать подробности →%2$s"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:39
+msgid "Configure Sitemap"
+msgstr "Настройки карты сайта"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:37
+msgid "Back to Homepage"
+msgstr "Вернуться на главную"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:34
+msgid "There are no posts here"
+msgstr "Записи отсутствуют"
+
+#: app/Common/Views/sitemap/xsl/templates/empty-sitemap.php:32
+msgid "Whoops!"
+msgstr "Ой!"
+
+#: app/Common/Views/sitemap/xsl/styles.php:103
+msgid "Back"
+msgstr "Назад"
+
+#. Translators: 1 - The "start-end" pagination results, 2 - Total items.
+#: app/Common/Views/sitemap/xsl/partials/pagination.php:42
+msgid "Showing %1$s of %2$s"
+msgstr "Отображается %1$s из %2$s"
+
+#: app/Common/Views/sitemap/xsl/default.php:279
+msgid "Images"
+msgstr "Изображения"
+
+#: app/Common/Views/sitemap/xsl/default.php:104
+msgid "URL Count"
+msgstr "Счётчик URL"
+
+#: app/Common/Views/sitemap/xsl/default.php:42
+#: app/Common/Views/sitemap/xsl/default.php:92
+#: app/Common/Views/sitemap/xsl/default.php:257
+#: app/Common/Views/sitemap/xsl/default.php:444
+msgid "Sitemap Index"
+msgstr "Индекс карты сайта"
+
+#: app/Common/Sitemap/Xsl.php:38
+msgid "Post Archive"
+msgstr "Архив записей"
+
+#: app/Common/Options/Options.php:560
+msgid "404 - Page Not Found"
+msgstr "404 - страница не найдена"
+
+#: app/Common/Options/Options.php:559
+msgid "Search Results for"
+msgstr "Результаты поиска"
+
+#. Translators: "Crumb" refers to a part of the breadcrumb trail.
+#: app/Common/Breadcrumbs/Frontend.php:138
+msgid "Sample Crumb"
+msgstr "Образец звена цепочки навигации"
+
+#: app/Common/Api/Tools.php:216
+msgid ".htaccess file is empty."
+msgstr "Файл .htaccess пуст."
+
+#: app/Common/Views/sitemap/xsl/default.php:199
+msgid "Publication Date"
+msgstr "Дата публикации"
+
+#: app/Common/Views/sitemap/html/widget-options.php:167
+msgid "Enter a comma-separated list of term IDs."
+msgstr "Введите список ID терминов через запятую."
+
+#: app/Common/Views/sitemap/html/widget-options.php:153
+msgid "Enter a comma-separated list of post IDs."
+msgstr "Введите список ID записей через запятую."
+
+#: app/Common/Views/sitemap/html/widget-options.php:138
+msgid "Descending"
+msgstr "По убыванию"
+
+#: app/Common/Views/sitemap/html/widget-options.php:137
+msgid "Ascending"
+msgstr "По возрастанию"
+
+#: app/Common/Views/sitemap/html/widget-options.php:134
+msgid "Sort Direction"
+msgstr "Порядок"
+
+#: app/Common/Views/sitemap/html/widget-options.php:125
+msgid "Alphabetical"
+msgstr "По алфавиту"
+
+#: app/Common/Views/sitemap/html/widget-options.php:122
+#: app/Common/Views/sitemap/xsl/default.php:113
+#: app/Common/Views/sitemap/xsl/default.php:319
+msgid "Last Updated"
+msgstr "Последнее обновление"
+
+#: app/Common/Views/sitemap/html/widget-options.php:115
+msgid "Sort Order"
+msgstr "Сортировка"
+
+#: app/Common/Views/sitemap/html/widget-options.php:63
+msgid "Show Publication Date"
+msgstr "Показать дату публикации"
+
+#: app/Common/Views/sitemap/html/widget-options.php:47
+msgid "Show Labels"
+msgstr "Показать ярлыки"
+
+#: app/Common/Views/sitemap/html/widget-options.php:31
+msgid "Compact Archives"
+msgstr "Компактные архивы"
+
+#: app/Common/Views/sitemap/html/compact-archive.php:7
+msgid "No date archives could be found."
+msgstr "Архивы дат не найдены."
+
+#. Translators: 1 - Opening bold tag, 2 - Plugin short name ("AIOSEO"), 3 -
+#. "Pro", 4 - Closing bold tag.
+#: app/Common/Utils/Addons.php:121
+msgid "The following addons cannot be used, because they require %1$s%2$s %3$s%4$s to work:"
+msgstr "Следующие аддоны невозможно использовать, поскольку для их работы требуется %1$s%2$s %3$s%4$s:"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Sitemap/Html/Widget.php:47
+msgid "%1$s - HTML Sitemap"
+msgstr "%1$s - HTML-карта сайта"
+
+#. Translators: The short plugin name ("AIOSEO").
+#: app/Common/Sitemap/Html/Widget.php:40
+msgid "%1$s HTML sitemap widget."
+msgstr "Виджет HTML-карты сайта %1$s."
+
+#: app/Common/Sitemap/Html/Sitemap.php:127
+msgid "Sitemap"
+msgstr "Карта сайта"
+
+#: app/Common/Sitemap/Html/Frontend.php:174
+msgid "No posts/terms could be found."
+msgstr "Записи/термины не найдены."
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin name ("All in One SEO").
+#: app/init/notices.php:157
+msgid "Your site is running an %1$sinsecure version%2$s of WordPress that is no longer supported. Please update your site to the latest version of WordPress in order to continue using %3$s."
+msgstr "На вашем сайте установлена %1$sнебезопасная версия%2$s WordPress, которая больше не поддерживается. Пожалуйста, обновитесь до последней версии WordPress, чтобы продолжать использовать %3$s."
+
+#: app/Common/Models/Post.php:424
+msgid "Content"
+msgstr "Содержимое"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:947
+msgid "vaporize"
+msgstr "испарять"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:946
+msgid "to be"
+msgstr "быть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:945
+msgid "surprisingly"
+msgstr "удивительно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:944
+msgid "you see"
+msgstr "понимаете"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:943
+msgid "tired"
+msgstr "усталый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:942
+msgid "surprising"
+msgstr "удивительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:941
+msgid "you see what"
+msgstr "вы видите, что"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:940
+msgid "you need to"
+msgstr "вам надо"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:939
+msgid "valor"
+msgstr "доблестный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:938
+msgid "thrilling"
+msgstr "захватывающий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:937
+msgid "you need to know"
+msgstr "вам нужно знать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:936
+msgid "thrilled"
+msgstr "взволнованный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:935
+msgid "surge"
+msgstr "всплеск"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:934
+msgid "wounded"
+msgstr "раненый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:933
+msgid "this is"
+msgstr "это является"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:932
+msgid "sure"
+msgstr "конечно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:931
+msgid "worry"
+msgstr "беспокойство"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:930
+msgid "uplifting"
+msgstr "поднимающий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:929
+msgid "this is what"
+msgstr "Это то, что"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:928
+msgid "wondrous"
+msgstr "чудесный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:927
+msgid "unusually"
+msgstr "необычно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:926
+msgid "this is what happens"
+msgstr "вот что происходит"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:925
+msgid "this is the"
+msgstr "это тот самый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:924
+msgid "withheld"
+msgstr "удержанный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:923
+msgid "thing ive ever seen"
+msgstr "вещь, которую я когда-либо видел"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:922
+msgid "unscrupulous"
+msgstr "беспринципный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:921
+msgid "the reason why is"
+msgstr "причина почему"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:920
+msgid "stupid"
+msgstr "дурацкий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:919
+msgid "will make you"
+msgstr "обеспечит вам"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:918
+msgid "the most"
+msgstr "самый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:917
+msgid "stunning"
+msgstr "оглушительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:916
+msgid "wicked"
+msgstr "безнравственный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:915
+msgid "the ranking of"
+msgstr "рейтинг"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:914
+msgid "stuck up"
+msgstr "застрял"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:913
+msgid "whopping"
+msgstr "колоссальный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:912
+msgid "the best"
+msgstr "лучший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:911
+msgid "whip"
+msgstr "кнут"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:910
+msgid "that will"
+msgstr "что будет"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:909
+msgid "strangle"
+msgstr "задушить"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:908
+msgid "when you"
+msgstr "когда вы"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:907
+msgid "unexpected"
+msgstr "неожиданный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:906
+msgid "that will make"
+msgstr "это сделает"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:905
+msgid "undo\",\"when you see"
+msgstr "отменяйте \",\" когда увидите"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:904
+msgid "that will make you"
+msgstr "это сделает вас"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:903
+msgid "what this"
+msgstr "что это"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:902
+msgid "underhanded"
+msgstr "коварный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:901
+msgid "staggering"
+msgstr "ошеломляющий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:900
+msgid "what happens"
+msgstr "что случается"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:899
+msgid "under"
+msgstr "под"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:898
+msgid "terror"
+msgstr "ужас"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:897
+msgid "what happens when"
+msgstr "что происходит, когда"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:896
+msgid "spirit"
+msgstr "дух"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:895
+msgid "what happened"
+msgstr "что случилось"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:894
+msgid "uncommonly"
+msgstr "необыкновенный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:893
+msgid "tempting"
+msgstr "заманчивый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:892
+msgid "spine"
+msgstr "хребет"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:891
+msgid "unbelievably"
+msgstr "невероятно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:890
+msgid "temporary fix"
+msgstr "временная фиксация"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:889
+msgid "spectacular"
+msgstr "изумительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:888
+msgid "unauthorized"
+msgstr "несанкционированный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:887
+msgid "teetering"
+msgstr "колеблется"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:886
+msgid "warning"
+msgstr "предупреждение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:885
+msgid "soaring"
+msgstr "парящий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:884
+msgid "wanton"
+msgstr "бессмысленный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:883
+msgid "turn the tables"
+msgstr "поменяться ролями"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:882
+msgid "tech"
+msgstr "технология"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:881
+msgid "try before you buy"
+msgstr "попробуйте перед покупкой"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:880
+msgid "tawdry"
+msgstr "безвкусный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:879
+msgid "snob"
+msgstr "сноб"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:878
+msgid "vulnerable"
+msgstr "уязвимый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:877
+msgid "truth"
+msgstr "правда"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:876
+msgid "targeted"
+msgstr "целевой"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:875
+msgid "sniveling"
+msgstr "хныкать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:874
+msgid "volatile"
+msgstr "летучий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:873
+msgid "triumph"
+msgstr "триумф"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:872
+msgid "tantalizing"
+msgstr "дразнящий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:871
+msgid "smuggled"
+msgstr "контрабандный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:870
+msgid "viral"
+msgstr "вирусный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:869
+msgid "triple"
+msgstr "тройной"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:868
+msgid "tank"
+msgstr "резервуар"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:867
+msgid "smug"
+msgstr "самодовольный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:866
+msgid "vindication"
+msgstr "оправдание"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:865
+msgid "tailspin"
+msgstr "штопор"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:864
+msgid "smash"
+msgstr "разгромить"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:863
+msgid "victory"
+msgstr "победа"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:862
+msgid "treasure"
+msgstr "сокровище"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:861
+msgid "taboo"
+msgstr "табу"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:860
+msgid "sleazy"
+msgstr "неряшливый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:859
+msgid "victim"
+msgstr "жертва"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:858
+msgid "trap"
+msgstr "ловушка"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:857
+msgid "swindle"
+msgstr "мошенничество"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:856
+msgid "slaughter"
+msgstr "бойня"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:855
+msgid "vibrant"
+msgstr "яркий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:854
+msgid "toxic"
+msgstr "токсичный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:853
+msgid "skyrocket"
+msgstr "сигнальная ракета"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:852
+msgid "varify"
+msgstr "варьировать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:851
+msgid "to the"
+msgstr "к"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:850
+msgid "surrender"
+msgstr "сдача"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:849
+msgid "research"
+msgstr "исследование"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:848
+msgid "never again"
+msgstr "никогда больше"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:846
+msgid "remarkably"
+msgstr "замечательно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:845
+msgid "poor"
+msgstr "бедный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:844
+msgid "myths"
+msgstr "мифы"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:843
+msgid "sinful"
+msgstr "грешный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:842
+msgid "pointless"
+msgstr "бессмысленно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:841
+msgid "murder"
+msgstr "убийство"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:840
+msgid "plunge"
+msgstr "окунуться"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:839
+msgid "plummet"
+msgstr "рухнуть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:838
+msgid "moneyback"
+msgstr "возврат денег"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:837
+msgid "refund"
+msgstr "возмещение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:836
+msgid "pluck"
+msgstr "сорвать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:835
+msgid "money-grubbing"
+msgstr "стяжательство"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:834
+msgid "silly"
+msgstr "глупый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:833
+msgid "refugee"
+msgstr "беженец"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:832
+msgid "played"
+msgstr "играл"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:831
+msgid "money"
+msgstr "деньги"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:830
+msgid "sick and tired"
+msgstr "опостылело"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:829
+msgid "plague"
+msgstr "чума"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:828
+msgid "mistakes"
+msgstr "ошибки"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:827
+msgid "reclaim"
+msgstr "исправление"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:826
+msgid "pitfall"
+msgstr "западня"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:825
+msgid "mired"
+msgstr "погрязший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:824
+msgid "shellacking"
+msgstr "шелушение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:823
+msgid "reckoning"
+msgstr "расчёт"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:822
+msgid "piranha"
+msgstr "пиранья"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:821
+msgid "shatter"
+msgstr "обломок"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:820
+msgid "rave"
+msgstr "бред"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:819
+msgid "minute"
+msgstr "минута"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:818
+msgid "shameless"
+msgstr "бесстыдный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:817
+msgid "mind-blowing"
+msgstr "умопомрачительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:816
+msgid "peril"
+msgstr "угроза"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:815
+msgid "might look like a"
+msgstr "может выглядеть как"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:814
+msgid "payback"
+msgstr "окупаемость"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:813
+msgid "meltdown"
+msgstr "крах"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:812
+msgid "seize"
+msgstr "захватывать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:811
+msgid "pay zero"
+msgstr "нулевой расход"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:810
+msgid "massive"
+msgstr "массивный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:809
+msgid "secutively"
+msgstr "прочный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:808
+msgid "quadruple"
+msgstr "четырёхкратный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:807
+msgid "panic"
+msgstr "паника"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:806
+msgid "marked down"
+msgstr "снижен"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:805
+msgid "punish"
+msgstr "наказать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:804
+msgid "pale"
+msgstr "бледный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:803
+msgid "secure"
+msgstr "безопасный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:802
+msgid "pummel"
+msgstr "стукнуть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:801
+msgid "painful"
+msgstr "болезненный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:800
+msgid "make you"
+msgstr "сделает вас"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:799
+msgid "provocative"
+msgstr "провокационный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:798
+msgid "overcome"
+msgstr "преодолеть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:797
+msgid "searing"
+msgstr "обжигающий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:796
+msgid "scream"
+msgstr "вопль"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:795
+msgid "protected"
+msgstr "защищённый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:794
+msgid "outlawed"
+msgstr "вне закона"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:793
+msgid "lying"
+msgstr "лживый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:792
+msgid "scary"
+msgstr "жуткий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:790
+msgid "on the"
+msgstr "на"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:789
+msgid "luxurious"
+msgstr "люксовый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:788
+msgid "official"
+msgstr "официальный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:787
+msgid "lust"
+msgstr "вожделение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:786
+msgid "ruthless"
+msgstr "безжалостный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:785
+msgid "prize"
+msgstr "приз"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:784
+msgid "offer"
+msgstr "предложение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:783
+msgid "lurking"
+msgstr "скрывающийся"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:782
+msgid "risky"
+msgstr "рискованный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:781
+msgid "private"
+msgstr "частный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:780
+msgid "off-limits"
+msgstr "запрещённый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:779
+msgid "lunatic"
+msgstr "сумасшедший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:778
+msgid "rich"
+msgstr "богатый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:777
+msgid "privacy"
+msgstr "конфиденциальность"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:776
+msgid "of the"
+msgstr "из"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:775
+msgid "lowest"
+msgstr "нижайший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:774
+msgid "prison"
+msgstr "темница"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:773
+msgid "lost"
+msgstr "потерянный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:772
+msgid "priced"
+msgstr "по цене"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:771
+msgid "looming"
+msgstr "надвигающийся"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:770
+msgid "revolting"
+msgstr "гадкий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:769
+msgid "preposterous"
+msgstr "нелепый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:768
+msgid "obnoxious"
+msgstr "противный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:767
+msgid "looks like a"
+msgstr "выглядит как"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:766
+msgid "lonely"
+msgstr "одинокий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:765
+msgid "revenge"
+msgstr "месть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:764
+msgid "no questions asked"
+msgstr "никаких вопросов не было задано"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:763
+msgid "loathsome"
+msgstr "омерзительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:762
+msgid "pound"
+msgstr "фунт"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:761
+msgid "no good"
+msgstr "не годится"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:760
+msgid "line"
+msgstr "линия"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:759
+msgid "results"
+msgstr "результаты"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:758
+msgid "nightmare"
+msgstr "кошмар"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:757
+msgid "like a normal"
+msgstr "как обычный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:756
+msgid "gambling"
+msgstr "азартный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:755
+msgid "exposed"
+msgstr "подверженный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:754
+msgid "lies"
+msgstr "враньё"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:753
+msgid "explode"
+msgstr "взрывать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:752
+msgid "lick"
+msgstr "лизать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:750
+msgid "illegal"
+msgstr "незаконный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:749
+msgid "frugal"
+msgstr "скромный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:748
+msgid "lawsuit"
+msgstr "иск"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:747
+msgid "hypnotic"
+msgstr "гипнотический"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:746
+msgid "frightening"
+msgstr "пугающий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:745
+msgid "fresh on the mind"
+msgstr "на свежую голову"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:744
+msgid "excited"
+msgstr "в восторге"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:743
+msgid "hurricane"
+msgstr "ураган"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:742
+msgid "frenzy"
+msgstr "безумный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:741
+msgid "freebie"
+msgstr "халява"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:740
+msgid "evil"
+msgstr "зло"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:739
+msgid "how to make"
+msgstr "как сделать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:738
+msgid "epic"
+msgstr "эпичный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:737
+msgid "know it all"
+msgstr "все знают"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:735
+msgid "frantic"
+msgstr "неистовый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:734
+msgid "killer"
+msgstr "убийца"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:733
+msgid "hope"
+msgstr "надежда"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:732
+msgid "foul"
+msgstr "нечистый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:731
+msgid "jubilant"
+msgstr "ликующий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:730
+msgid "hoax"
+msgstr "фальсификация"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:729
+msgid "energize"
+msgstr "возбуждать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:728
+msgid "jeopardy"
+msgstr "опасность"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:727
+msgid "forgotten"
+msgstr "забытый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:726
+msgid "jaw-dropping"
+msgstr "челюсть отпадает"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:725
+msgid "high"
+msgstr "высокий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:724
+msgid "force-fed"
+msgstr "откармливать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:723
+msgid "empower"
+msgstr "уполномоченный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:722
+msgid "jail"
+msgstr "тюрьма"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:721
+msgid "hidden"
+msgstr "скрытый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:720
+msgid "forbidden"
+msgstr "запретный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:719
+msgid "jackpot"
+msgstr "куш"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:718
+msgid "help are the"
+msgstr "помощь - это"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:717
+msgid "for the first time"
+msgstr "впервые"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:716
+msgid "embarrass"
+msgstr "смущать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:715
+msgid "it looks like a"
+msgstr "это похоже на"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:714
+msgid "helpless"
+msgstr "беспомощный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:713
+msgid "fooled"
+msgstr "одураченный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:712
+msgid "is what happens when"
+msgstr "это то, что происходит, когда"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:711
+msgid "fool"
+msgstr "дурак"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:710
+msgid "is the"
+msgstr "это тот самый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:709
+msgid "hazardous"
+msgstr "опасный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:708
+msgid "irresistibly"
+msgstr "непреодолимо"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:707
+msgid "hate"
+msgstr "ненавидеть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:705
+msgid "dumb"
+msgstr "тупой"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:704
+msgid "ironclad"
+msgstr "бронированный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:703
+msgid "happy"
+msgstr "счастливый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:702
+msgid "floundering"
+msgstr "барахтающийся"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:701
+msgid "drowning"
+msgstr "утопление"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:700
+msgid "invasion"
+msgstr "вторжение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:699
+msgid "had enough"
+msgstr "достаточно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:697
+msgid "hack"
+msgstr "взломать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:695
+msgid "double"
+msgstr "двойной"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:694
+msgid "gullible"
+msgstr "доверчивый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:693
+msgid "feeble"
+msgstr "слабый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:692
+msgid "dollar"
+msgstr "доллар"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:691
+msgid "insidious"
+msgstr "коварный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:690
+msgid "feast"
+msgstr "праздник"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:689
+msgid "disinformation"
+msgstr "дезинформация"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:688
+msgid "fearless"
+msgstr "бесстрашный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:687
+msgid "disgusting"
+msgstr "отвратительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:686
+msgid "insanely"
+msgstr "безумно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:685
+msgid "grit"
+msgstr "твёрдость"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:684
+msgid "greed"
+msgstr "жадность"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:683
+msgid "fantastic"
+msgstr "фантастический"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:682
+msgid "disastrous"
+msgstr "катастрофический"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:681
+msgid "famous"
+msgstr "знаменитый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:680
+msgid "dirty"
+msgstr "грязный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:679
+msgid "inexpensive"
+msgstr "недорогой"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:678
+msgid "grateful"
+msgstr "благодарный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:677
+msgid "faith"
+msgstr "вера"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:676
+msgid "in the"
+msgstr "в"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:675
+msgid "fail"
+msgstr "неудача"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:674
+msgid "devoted"
+msgstr "преданный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:673
+msgid "in the world"
+msgstr "в мире"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:672
+msgid "gift"
+msgstr "подарок"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:671
+msgid "eye-opening"
+msgstr "открывающий глаза"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:670
+msgid "devastating"
+msgstr "разрушительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:669
+msgid "in a"
+msgstr "в"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:668
+msgid "extra"
+msgstr "сверх"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:667
+msgid "destroy"
+msgstr "уничтожить"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:654
+msgid "something"
+msgstr "что-то"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:653
+msgid "more"
+msgstr "больше"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:652
+msgid "guy"
+msgstr "парень"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:651
+msgid "social"
+msgstr "социальный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:650
+msgid "mind"
+msgstr "разум"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:649
+msgid "good"
+msgstr "хороший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:648
+msgid "seen"
+msgstr "видимый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:646
+msgid "girl"
+msgstr "девочка"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:645
+msgid "you’ll"
+msgstr "вы будете"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:644
+msgid "see"
+msgstr "видеть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:643
+msgid "man"
+msgstr "человек"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:642
+msgid "found"
+msgstr "найдено"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:641
+msgid "years"
+msgstr "годы"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:640
+msgid "right"
+msgstr "верно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:639
+msgid "makes"
+msgstr "делает"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:636
+msgid "reasons"
+msgstr "причины"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:635
+msgid "make"
+msgstr "делать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:634
+msgid "facebook"
+msgstr "facebook"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:633
+msgid "world"
+msgstr "мир"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:632
+msgid "really"
+msgstr "действительно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:631
+msgid "made"
+msgstr "сделано"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:630
+msgid "down"
+msgstr "падение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:629
+msgid "ways"
+msgstr "способы"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:628
+msgid "photos"
+msgstr "фотографии"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:626
+msgid "dog"
+msgstr "собака"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:625
+msgid "way"
+msgstr "способ"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:624
+msgid "people"
+msgstr "люди"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:623
+msgid "look"
+msgstr "смотреть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:622
+msgid "boy"
+msgstr "мальчик"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:621
+msgid "watch"
+msgstr "следить"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:620
+msgid "out"
+msgstr "вне"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:619
+msgid "little"
+msgstr "маленький"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:617
+msgid "want"
+msgstr "хочу"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:615
+msgid "life"
+msgstr "жизнь"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:614
+msgid "best"
+msgstr "лучший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:613
+msgid "video"
+msgstr "видео"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:612
+msgid "old"
+msgstr "старый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:611
+msgid "know"
+msgstr "знать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:610
+msgid "being"
+msgstr "существование"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:609
+msgid "valentines"
+msgstr "валентинки"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:607
+msgid "its"
+msgstr "его"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:605
+msgid "time"
+msgstr "время"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:603
+msgid "here"
+msgstr "здесь"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:602
+msgid "baby"
+msgstr "малыш"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:601
+msgid "think"
+msgstr "думать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:599
+msgid "heart"
+msgstr "сердце"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:598
+msgid "awesome"
+msgstr "потрясающий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:597
+msgid "thing"
+msgstr "вещь"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:596
+msgid "need"
+msgstr "нужно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:595
+msgid "happened"
+msgstr "случилось"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:594
+msgid "actually"
+msgstr "фактически"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:581
+msgid "there"
+msgstr "там"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:579
+msgid "their"
+msgstr "их"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:577
+msgid "the"
+msgstr "тот самый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:576
+msgid "with"
+msgstr "с"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:575
+msgid "that"
+msgstr "что"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:573
+msgid "so"
+msgstr "так"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:572
+msgid "why"
+msgstr "почему"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:571
+msgid "sould"
+msgstr "мог"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:570
+msgid "who"
+msgstr "кто"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:567
+msgid "re"
+msgstr "повторно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:565
+msgid "on"
+msgstr "на"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:564
+msgid "was"
+msgstr "было"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:562
+msgid "up"
+msgstr "вверх"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:561
+msgid "not"
+msgstr "не"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:560
+msgid "to"
+msgstr "в"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:559
+msgid "no"
+msgstr "нет"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:558
+msgid "this"
+msgstr "этот"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:556
+msgid "things"
+msgstr "вещи"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:555
+msgid "most"
+msgstr "наиболее"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:553
+msgid "me"
+msgstr "мне"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:552
+msgid "these"
+msgstr "эти"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:551
+msgid "ll"
+msgstr "ll"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:550
+msgid "like"
+msgstr "словно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:549
+msgid "ever"
+msgstr "когда-либо"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:548
+msgid "just"
+msgstr "просто"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:545
+msgid "did"
+msgstr "сделал"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:544
+msgid "is"
+msgstr "является"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:542
+msgid "in"
+msgstr "в"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:541
+msgid "by"
+msgstr "от"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:540
+msgid "if"
+msgstr "если"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:539
+msgid "but"
+msgstr "но"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:538
+msgid "I"
+msgstr "Я"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:537
+msgid "be"
+msgstr "будьте"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:534
+msgid "his"
+msgstr "его"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:533
+msgid "as"
+msgstr "как"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:532
+msgid "her"
+msgstr "её"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:529
+msgid "and"
+msgstr "и"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:527
+msgid "an"
+msgstr "некий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:525
+msgid "all"
+msgstr "все"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:524
+msgid "get"
+msgstr "получите"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:523
+msgid "after"
+msgstr "после"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:522
+msgid "from"
+msgstr "от"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:521
+msgid "about"
+msgstr "о"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:520
+msgid "for"
+msgstr "для"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:519
+msgid "a"
+msgstr "некий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:506
+msgid "download"
+msgstr "скачать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:505
+msgid "delighted"
+msgstr "восхищённый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:504
+msgid "excellent"
+msgstr "отличный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:503
+msgid "practical"
+msgstr "практичный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:502
+msgid "insider"
+msgstr "инсайдер"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:501
+msgid "surprise"
+msgstr "сюрприз"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:500
+msgid "sensational"
+msgstr "сенсационный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:499
+msgid "introducing"
+msgstr "введение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:498
+msgid "value"
+msgstr "ценность"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:497
+msgid "weird"
+msgstr "сверхъестественный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:496
+msgid "revealing"
+msgstr "раскрытие"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:495
+msgid "huge gift"
+msgstr "огромный подарок"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:494
+msgid "strange"
+msgstr "странный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:493
+msgid "reward"
+msgstr "награда"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:492
+msgid "portfolio"
+msgstr "портфель"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:491
+msgid "announcing"
+msgstr "заявленный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:490
+msgid "simple"
+msgstr "простой"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:489
+msgid "proven"
+msgstr "доказанный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:488
+msgid "exciting"
+msgstr "волнующий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:487
+msgid "authentic"
+msgstr "аутентичный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:486
+msgid "direct"
+msgstr "прямой"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:485
+msgid "magic"
+msgstr "магия"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:484
+msgid "amazing"
+msgstr "удивительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:483
+msgid "fortune"
+msgstr "удача"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:482
+msgid "easy"
+msgstr "легко"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:481
+msgid "miracle"
+msgstr "чудо"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:480
+msgid "urgent"
+msgstr "срочно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:479
+msgid "unlock"
+msgstr "разблокировать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:478
+msgid "quick"
+msgstr "быстрый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:477
+msgid "revolutionary"
+msgstr "революционный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:476
+msgid "important"
+msgstr "важный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:475
+#: app/Common/Standalone/HeadlineAnalyzer.php:608
+msgid "now"
+msgstr "сейчас"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:474
+msgid "startling"
+msgstr "поразительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:473
+msgid "quickly"
+msgstr "быстро"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:472
+msgid "latest"
+msgstr "последний"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:471
+msgid "colossal"
+msgstr "колоссальный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:470
+msgid "monumental"
+msgstr "монументальный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:469
+msgid "refundable"
+msgstr "возвращаемый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:468
+msgid "high tech"
+msgstr "передовая технология"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:467
+msgid "largest"
+msgstr "наибольший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:466
+msgid "last minute"
+msgstr "в последнюю минуту"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:465
+msgid "security"
+msgstr "безопасность"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:464
+msgid "greatest"
+msgstr "величайший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:463
+msgid "survival"
+msgstr "выживание"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:462
+msgid "opportunities"
+msgstr "возможности"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:461
+msgid "bonanza"
+msgstr "золотое дно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:460
+msgid "imagination"
+msgstr "воображение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:459
+msgid "useful"
+msgstr "полезный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:458
+msgid "successful"
+msgstr "успешный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:457
+msgid "timely"
+msgstr "своевременный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:456
+msgid "astonishing"
+msgstr "удивительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:455
+msgid "spotlight"
+msgstr "прожектор"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:454
+msgid "wealth"
+msgstr "богатство"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:453
+msgid "unconditional"
+msgstr "безусловный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:452
+msgid "promising"
+msgstr "многообещающий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:451
+msgid "enormous"
+msgstr "громадный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:450
+msgid "sturdy"
+msgstr "крепкий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:449
+msgid "luxury"
+msgstr "роскошный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:448
+msgid "growth"
+msgstr "рост"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:447
+msgid "shrewd"
+msgstr "проницательный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:446
+msgid "selected"
+msgstr "выбранный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:445
+msgid "noted"
+msgstr "известный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:444
+msgid "crammed"
+msgstr "забитый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:443
+#: app/Common/Standalone/HeadlineAnalyzer.php:618
+msgid "better"
+msgstr "лучший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:442
+msgid "technology"
+msgstr "технология"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:441
+msgid "sampler"
+msgstr "образец"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:440
+#: app/Common/Standalone/HeadlineAnalyzer.php:606
+msgid "beautiful"
+msgstr "великолепный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:439
+msgid "reduced"
+msgstr "уменьшенный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:438
+msgid "special offer"
+msgstr "специальное предложение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:436
+msgid "soar"
+msgstr "взмыть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:435
+msgid "skill"
+msgstr "навык"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:434
+msgid "helpful"
+msgstr "помогающий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:433
+msgid "emerging"
+msgstr "возникающий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:431
+msgid "launching"
+msgstr "запуск"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:430
+msgid "tremendous"
+msgstr "огромный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:429
+msgid "breakthrough"
+msgstr "прорыв"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:428
+msgid "just arrived"
+msgstr "только что прибывший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:427
+msgid "perspective"
+msgstr "перспектива"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:424
+msgid "it's here"
+msgstr "уже здесь"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:423
+msgid "suddenly"
+msgstr "внезапно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:422
+msgid "zinger"
+msgstr "звенящий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:421
+msgid "reliable"
+msgstr "надёжный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:420
+msgid "innovative"
+msgstr "инновационный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:419
+msgid "under priced"
+msgstr "недооцененный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:418
+msgid "bottom line"
+msgstr "итог"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:417
+msgid "lavishly"
+msgstr "щедрый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:416
+msgid "mammoth"
+msgstr "мамонт"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:415
+msgid "fundamentals"
+msgstr "основы"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:414
+msgid "odd"
+msgstr "чудной"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:413
+#: app/Common/Standalone/HeadlineAnalyzer.php:627
+msgid "love"
+msgstr "любовь"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:412
+msgid "full"
+msgstr "полный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:411
+msgid "discount"
+msgstr "скидка"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:410
+msgid "compromise"
+msgstr "компромисс"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:409
+msgid "gigantic"
+msgstr "гигантский"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:408
+msgid "competitive"
+msgstr "конкурентный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:407
+msgid "unlimited"
+msgstr "неограниченный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:406
+msgid "fascinating"
+msgstr "очаровательный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:405
+msgid "quality"
+msgstr "качество"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:404
+msgid "approved"
+msgstr "подтверждённый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:403
+msgid "endorsed"
+msgstr "одобренный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:402
+msgid "unparalleled"
+msgstr "бесподобный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:401
+msgid "exploit"
+msgstr "подвиг"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:400
+msgid "easily"
+msgstr "легко"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:398
+msgid "superior"
+msgstr "превосходный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:397
+msgid "last chance"
+msgstr "последний шанс"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:396
+msgid "attractive"
+msgstr "привлекательный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:395
+msgid "valuable"
+msgstr "ценный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:394
+msgid "edge"
+msgstr "грань"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:393
+msgid "complete"
+msgstr "полный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:392
+msgid "willpower"
+msgstr "сила воли"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:391
+msgid "exclusive"
+msgstr "эксклюзивный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:390
+msgid "rare"
+msgstr "редкий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:389
+msgid "mainstream"
+msgstr "мэйнстрим"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:388
+msgid "ultimate"
+msgstr "окончательный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:387
+msgid "popular"
+msgstr "популярный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:386
+msgid "liberal"
+msgstr "свободный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:385
+msgid "informative"
+msgstr "информативный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:384
+msgid "affordable"
+msgstr "доступный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:383
+msgid "big"
+msgstr "большой"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:382
+msgid "instructive"
+msgstr "поучительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:381
+msgid "genuine"
+msgstr "подлинный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:380
+msgid "colorful"
+msgstr "красочный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:379
+msgid "powerful"
+msgstr "мощный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:378
+msgid "energy"
+msgstr "энергия"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:377
+msgid "unsurpassed"
+msgstr "непревзойденный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:376
+msgid "compare"
+msgstr "сравните"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:375
+msgid "simplistic"
+msgstr "упрощённый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:374
+msgid "outstanding"
+msgstr "выдающийся"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:373
+msgid "destiny"
+msgstr "судьба"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:372
+msgid "the truth about"
+msgstr "правда о"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:371
+msgid "limited"
+msgstr "ограниченный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:370
+msgid "unusual"
+msgstr "необычно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:369
+msgid "pioneering"
+msgstr "новаторский"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:368
+msgid "advice"
+msgstr "совет"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:367
+msgid "immediately"
+msgstr "немедленно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:366
+msgid "strong"
+msgstr "сильный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:365
+msgid "daring"
+msgstr "дерзкий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:364
+msgid "expert"
+msgstr "эксперт"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:363
+msgid "improved"
+msgstr "улучшенный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:362
+msgid "alert famous"
+msgstr "бдительны"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:361
+msgid "hurry"
+msgstr "торопиться"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:360
+msgid "highest"
+msgstr "наивысший"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:359
+msgid "tested"
+msgstr "проверенный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:358
+msgid "scarce"
+msgstr "скудный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:357
+msgid "bargain"
+msgstr "сделка"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:356
+msgid "lifetime"
+msgstr "бессрочный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:355
+msgid "special"
+msgstr "особый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:354
+msgid "secrets"
+msgstr "секреты"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:353
+msgid "unique"
+msgstr "уникальный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:352
+msgid "challenge"
+msgstr "вызов"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:351
+msgid "guaranteed"
+msgstr "гарантированный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:350
+msgid "delivered"
+msgstr "доставленный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:349
+msgid "revisited"
+msgstr "пересмотренный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:348
+msgid "interesting"
+msgstr "интересный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:347
+msgid "professional"
+msgstr "профессиональный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:346
+msgid "wonderful"
+msgstr "прекрасный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:345
+msgid "surging"
+msgstr "всдымается"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:344
+msgid "absolutely lowest"
+msgstr "самый низкий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:343
+#: app/Common/Standalone/HeadlineAnalyzer.php:604
+msgid "new"
+msgstr "новый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:342
+msgid "sizable"
+msgstr "значительный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:341
+msgid "obsession"
+msgstr "одержимость"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:340
+msgid "wanted"
+msgstr "разыскиваемый"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:339
+msgid "sale"
+msgstr "распродажа"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:338
+msgid "confidential"
+msgstr "конфиденциально"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:337
+msgid "remarkable"
+msgstr "замечательный"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:336
+msgid "focus"
+msgstr "фокус"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:335
+msgid "free"
+msgstr "бесплатно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:334
+msgid "great"
+msgstr "великий"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:314
+#: app/Common/Standalone/HeadlineAnalyzer.php:557
+msgid "my"
+msgstr "мой"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:312
+#: app/Common/Standalone/HeadlineAnalyzer.php:546
+msgid "it"
+msgstr "оно"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:311
+#: app/Common/Standalone/HeadlineAnalyzer.php:580
+msgid "your"
+msgstr "ваш"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:310
+#: app/Common/Standalone/HeadlineAnalyzer.php:569
+msgid "she"
+msgstr "она"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:309
+#: app/Common/Standalone/HeadlineAnalyzer.php:530
+msgid "he"
+msgstr "он"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:308
+#: app/Common/Standalone/HeadlineAnalyzer.php:313
+#: app/Common/Standalone/HeadlineAnalyzer.php:554
+msgid "they"
+msgstr "они"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:307
+#: app/Common/Standalone/HeadlineAnalyzer.php:578
+msgid "you"
+msgstr "вы"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:294
+#: app/Common/Standalone/HeadlineAnalyzer.php:321
+#: app/Common/Standalone/HeadlineAnalyzer.php:574
+msgid "will"
+msgstr "будут"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:293
+#: app/Common/Standalone/HeadlineAnalyzer.php:320
+#: app/Common/Standalone/HeadlineAnalyzer.php:531
+msgid "are"
+msgstr "находятся"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:292
+#: app/Common/Standalone/HeadlineAnalyzer.php:319
+#: app/Common/Standalone/HeadlineAnalyzer.php:543
+msgid "can"
+msgstr "мочь"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:291
+#: app/Common/Standalone/HeadlineAnalyzer.php:318
+#: app/Common/Standalone/HeadlineAnalyzer.php:547
+msgid "do"
+msgstr "делать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:290
+#: app/Common/Standalone/HeadlineAnalyzer.php:317
+msgid "does"
+msgstr "делает"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:289
+#: app/Common/Standalone/HeadlineAnalyzer.php:316
+#: app/Common/Standalone/HeadlineAnalyzer.php:526
+msgid "has"
+msgstr "имеет"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:288
+#: app/Common/Standalone/HeadlineAnalyzer.php:315
+#: app/Common/Standalone/HeadlineAnalyzer.php:528
+msgid "have"
+msgstr "иметь"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:287
+#: app/Common/Standalone/HeadlineAnalyzer.php:566
+msgid "what"
+msgstr "что"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:286
+#: app/Common/Standalone/HeadlineAnalyzer.php:536
+msgid "how"
+msgstr "как"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:285
+#: app/Common/Standalone/HeadlineAnalyzer.php:568
+msgid "when"
+msgstr "когда"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:284
+msgid "where"
+msgstr "где"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:271
+msgid "thousand"
+msgstr "тысяча"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:270
+msgid "hundred"
+msgstr "сотня"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:269
+msgid "fift"
+msgstr "пятьдесят"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:268
+msgid "thirt"
+msgstr "тринадцать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:267
+msgid "twelve"
+msgstr "двенадцать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:266
+msgid "eleven"
+msgstr "одиннадцать"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:265
+msgid "nine"
+msgstr "девять"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:264
+msgid "eight"
+msgstr "восемь"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:263
+msgid "seven"
+msgstr "семь"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:262
+msgid "six"
+msgstr "шесть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:261
+msgid "five"
+msgstr "пять"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:260
+msgid "four"
+msgstr "четыре"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:259
+msgid "three"
+msgstr "три"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:258
+msgid "two"
+msgstr "два"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:257
+#: app/Common/Standalone/HeadlineAnalyzer.php:616
+msgid "one"
+msgstr "один"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:196
+msgid "List"
+msgstr "Список"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:190
+msgid "How-To"
+msgstr "Руководства"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:189
+msgid "howto"
+msgstr "howto"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:189
+#: app/Common/Standalone/HeadlineAnalyzer.php:399
+msgid "how to"
+msgstr "как"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:168
+msgid "power"
+msgstr "власть"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:162
+msgid "uncommon"
+msgstr "необычное"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:156
+msgid "common"
+msgstr "общее"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:150
+msgid "emotion"
+msgstr "эмоция"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin name ("All in One SEO"), 4 - Opening HTML link tag, 5 - Closing HTML
+#. link tag.
+#: app/Common/Admin/Notices/DeprecatedWordPress.php:85
+msgid "%1$sNote:%2$s %3$s will be discontinuing support for WordPress versions older than version 5.3 by the end of 2021. %4$sRead more for additional information.%5$s"
+msgstr "%1$sПримечание:%2$s %3$s прекратит поддержку версий WordPress, предшествующих версии 5.3, к концу 2021 года. %4$sЧитайте дополнительную информацию%5$s."
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag.
+#: app/Common/Admin/Notices/DeprecatedWordPress.php:71
+msgid "Your site is running an %1$soutdated version%2$s of WordPress. We recommend using the latest version of WordPress in order to keep your site secure."
+msgstr "На вашем сайте установлена %1$sустаревшая версия%2$s WordPress. Рекомендуем использовать последнюю версию WordPress, чтобы обеспечить безопасность вашего сайта."
+
+#: app/Common/Admin/Admin.php:1241
+msgid "Add Redirect to improve SEO"
+msgid_plural "Add Redirects to improve SEO"
+msgstr[0] "Добавьте переадресацию для улучшения SEO"
+msgstr[1] "Добавьте переадресации для улучшения SEO"
+msgstr[2] "Добавьте переадресации для улучшения SEO"
+
+#: app/Common/Breadcrumbs/Widget.php:41
+msgid "AIOSEO - Breadcrumbs"
+msgstr "AIOSEO - Цепочки навигации"
+
+#: app/Common/Breadcrumbs/Widget.php:32
+msgid "Display the current page breadcrumb."
+msgstr "Отображать цепочку навигации текущей страницы."
+
+#. Translators: 1 - The name of a post type.
+#: app/Common/Breadcrumbs/Tags.php:233
+msgid "The %1$s brand."
+msgstr "Бренд %1$s."
+
+#. Translators: 1 - The name of a post type.
+#: app/Common/Breadcrumbs/Tags.php:231
+msgid "%1$s Brand"
+msgstr "Бренд %1$s"
+
+#. Translators: 1 - The name of a post type.
+#: app/Common/Breadcrumbs/Tags.php:226
+msgid "The %1$s SKU."
+msgstr "Артикул %1$s."
+
+#. Translators: 1 - The name of a post type.
+#: app/Common/Breadcrumbs/Tags.php:224
+msgid "%1$s SKU"
+msgstr "Артикул %1$s"
+
+#. Translators: 1 - The name of a post type.
+#: app/Common/Breadcrumbs/Tags.php:219
+msgid "The %1$s price."
+msgstr "Цена %1$s."
+
+#. Translators: 1 - The name of a post type.
+#: app/Common/Breadcrumbs/Tags.php:217
+msgid "%1$s Price"
+msgstr "Цена %1$s"
+
+#: app/Common/Breadcrumbs/Tags.php:207
+msgid "The archive post type name."
+msgstr "Имя типа записи архива."
+
+#: app/Common/Breadcrumbs/Tags.php:206
+msgid "Post Type Name"
+msgstr "Название типа записи"
+
+#: app/Common/Breadcrumbs/Tags.php:202
+msgid "The archive format."
+msgstr "Формат архива."
+
+#: app/Common/Breadcrumbs/Tags.php:201
+msgid "Archive format"
+msgstr "Формат архива"
+
+#: app/Common/Breadcrumbs/Tags.php:192
+msgid "The search string."
+msgstr "Строка поиска."
+
+#: app/Common/Breadcrumbs/Tags.php:191
+msgid "Search String"
+msgstr "Строка поиска"
+
+#: app/Common/Breadcrumbs/Tags.php:187
+msgid "The day."
+msgstr "День."
+
+#: app/Common/Breadcrumbs/Tags.php:182
+msgid "The month."
+msgstr "Месяц."
+
+#: app/Common/Breadcrumbs/Tags.php:177
+msgid "The year."
+msgstr "Год."
+
+#: app/Common/Breadcrumbs/Tags.php:172
+msgid "The 404 error format."
+msgstr "Формат ошибки 404."
+
+#: app/Common/Breadcrumbs/Tags.php:167
+msgid "The search result format."
+msgstr "Формат результата поиска."
+
+#: app/Common/Breadcrumbs/Tags.php:166
+msgid "Search result format"
+msgstr "Формат результата поиска"
+
+#: app/Common/Breadcrumbs/Tags.php:162
+msgid "The author's last name."
+msgstr "Фамилия автора."
+
+#: app/Common/Breadcrumbs/Tags.php:157
+msgid "The author's first name."
+msgstr "Имя автора."
+
+#: app/Common/Breadcrumbs/Tags.php:152
+msgid "The author's display name."
+msgstr "Отображаемое имя автора."
+
+#: app/Common/Breadcrumbs/Tags.php:151
+msgid "Author Display Name"
+msgstr "Отображаемое имя автора"
+
+#: app/Common/Breadcrumbs/Tags.php:147
+msgid "The blog page title."
+msgstr "Название страницы блога."
+
+#: app/Common/Breadcrumbs/Tags.php:142
+msgid "The crumb separator."
+msgstr "Разделитель в цепочке навигации."
+
+#. Translators: 1 - The name of a taxonomy.
+#: app/Common/Breadcrumbs/Tags.php:137
+msgid "The %1$s title."
+msgstr "Заголовок %1$s."
+
+#: app/Common/Breadcrumbs/Tags.php:124
+msgid "The label."
+msgstr "Ярлык."
+
+#: app/Common/Breadcrumbs/Tags.php:123
+msgid "Label"
+msgstr "Ярлык"
+
+#: app/Common/Breadcrumbs/Tags.php:119
+msgid "The permalink."
+msgstr "Постоянная ссылка."
+
+#: app/Common/Breadcrumbs/Tags.php:146
+msgid "Blog Page Title"
+msgstr "Название страницы блога"
+
+#: app/Common/Breadcrumbs/Tags.php:186
+msgid "Day"
+msgstr "День"
+
+#: app/Common/Breadcrumbs/Tags.php:176
+msgid "Year"
+msgstr "Год"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:535
+msgid "at"
+msgstr "в"
+
+#: app/Common/Admin/Admin.php:654
+msgid "Redirection Manager"
+msgstr "Переадресация"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:563
+msgid "of"
+msgstr "из"
+
+#: app/Common/Schema/Context.php:224
+msgid "Not Found"
+msgstr "Ничего не найдено"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - The plugin short name
+#. ("AIOSEO"), 3 - Opening link tag, 4 - Closing link tag.
+#: app/Common/Migration/GeneralSettings.php:457
+msgid "%1$s migrated all your title formats, some of which were blank. If you were purposely using blank formats in the previous version of %2$s and want WordPress to handle your titles, you can safely dismiss this message. For more information, check out our documentation on %3$sblank title formats%4$s."
+msgstr "%1$s перенес все ваши форматы заголовков, некоторые из которых были пустыми. Если вы намеренно использовали пустые форматы в предыдущей версии %2$s и хотите, чтобы WordPress обрабатывал ваши заголовки, вы можете спокойно закрыть это сообщение. Для получения дополнительной информации ознакомьтесь с документацией %3$sпустым форматам заголовков%4$s."
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:202
+msgid "Question"
+msgstr "Вопрос"
+
+#: app/Common/Utils/Tags.php:315
+msgid "The first name of the post author."
+msgstr "Имя автора записи."
+
+#: app/Common/Utils/Tags.php:310
+msgid "The display name of the post author."
+msgstr "Отображаемое имя автора публикации."
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - Same as previous, 3
+#. - Same as previous.
+#: app/init/notices.php:227
+msgid "Your site already has %1$s Pro activated. If you want to switch to %2$s Lite, please first go to Plugins > Installed Plugins and deactivate %1$s. Then, you can activate %3$s Lite."
+msgstr "На вашем сайте уже активирован %1$s Pro. Если хотите переключиться на %2$s Lite, перейдите в Плагины > Установленные и отключите %1$s. Затем можно активировать %3$s Lite."
+
+#: app/init/notices.php:225
+msgid "Heads up!"
+msgstr "Внимание!"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin name ("All in One SEO"), 4 - Opening HTML link tag, 5 - Closing HTML
+#. link tag.
+#: app/init/notices.php:113
+msgid "%1$sNote:%2$s Support for PHP 5.4 will be discontinued in 2021. After this, if no further action is taken, %3$s functionality will be disabled. %4$sRead more for additional information.%5$s"
+msgstr "%1$sПримечание:%2$s Поддержка PHP 5.4 будет прекращена в 2021 году. Если после этого не будет предпринято никаких действий, функциональность %3$s будет прервана. %4$sПодробности здесь.%5$s"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 -
+#. Opening HTML link tag, 4 - Closing HTML link tag.
+#: app/init/notices.php:90
+msgid "Your site is running an %1$soutdated version%2$s of PHP that is no longer supported and may cause issues with %3$s. Please contact your web hosting provider to update your PHP version or switch to a %4$srecommended WordPress hosting company%5$s."
+msgstr "На данном сайте используется %1$sустаревшая версия%2$s PHP, которая больше не поддерживается и может вызвать проблемы с %3$s. Обратитесь к своему хостеру, чтобы обновить версию PHP или переходите на %4$sрекомендованный WordPress хостинг%5$s."
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 - The
+#. plugin name ("All in One SEO"), 4 - Opening HTML link tag, 5 - Closing HTML
+#. link tag.
+#: app/init/notices.php:46
+msgid "%1$sNote:%2$s %3$s plugin is disabled on your site until you fix the issue. %4$sRead more for additional information.%5$s"
+msgstr "%1$sПримечание:%2$s  Плагин %3$s отключен на данном сайте, пока не будет исправлена проблема. %4$sПодробности здесь.%5$s"
+
+#. Translators: 1 - Opening HTML bold tag, 2 - Closing HTML bold tag, 3 -
+#. Opening HTML link tag, 4 - Closing HTML link tag.
+#: app/init/notices.php:24
+msgid "Your site is running an %1$sinsecure version%2$s of PHP that is no longer supported. Please contact your web hosting provider to update your PHP version or switch to a %3$srecommended WordPress hosting company%4$s."
+msgstr "Данный сайт работает на %1$sненадежной версии%2$s PHP, которая больше не поддерживается. Обратитесь к своему хостеру, чтобы обновить версию PHP или переходите на %3$sрекомендованный WordPress хостинг%4$s."
+
+#: app/Common/Utils/Tags.php:978
+msgid "Sample Taxonomy Name Value"
+msgstr "Образец наименования таксономии"
+
+#: app/Common/Utils/Tags.php:976
+msgid "Sample Custom Field Value"
+msgstr "Образец значения произвольного поля"
+
+#: app/Common/Utils/Tags.php:974
+msgid "Example search string"
+msgstr "Пример поисковой фразы"
+
+#: app/Common/Utils/Tags.php:934
+msgid "Sample author biography"
+msgstr "Образец биографии автора"
+
+#: app/Common/Utils/Tags.php:926
+msgid "Sample Archive Title"
+msgstr "Образец заголовка архива"
+
+#: app/Common/Utils/Tags.php:906
+msgid "Sample taxonomy description"
+msgstr "Образец описания таксономии"
+
+#: app/Common/Utils/Tags.php:889
+msgid "Sample Category 1, Sample Category 2"
+msgstr "Образец рубрики 1, образец рубрики 2"
+
+#: app/Common/Utils/Tags.php:886
+msgid "Sample Taxonomy Title"
+msgstr "Образец заголовка таксономии"
+
+#: app/Common/Utils/Tags.php:881
+msgid "An example of content from your page/post."
+msgstr "Пример содержимого вашей страницы/записи."
+
+#: app/Common/Utils/Tags.php:869 app/Common/Utils/Tags.php:872
+msgid "Sample excerpt from a page/post."
+msgstr "Образец отрывка страницы/записи."
+
+#: app/Common/Utils/Tags.php:822
+msgid "Sample Parent"
+msgstr "Образец родителя"
+
+#: app/Common/Utils/Tags.php:819
+msgid "Sample Post"
+msgstr "Образец публикации"
+
+#: app/Common/Utils/Tags.php:804
+msgid "Sample caption for media."
+msgstr "Образец подписи медиа."
+
+#: app/Common/Utils/Tags.php:799
+msgid "A sample alt tag for your image"
+msgstr "Образец alt-тега изображения"
+
+#: app/Common/Utils/Tags.php:532
+msgid "All categories that are assigned to the current post, comma-separated."
+msgstr "Все рубрики текущей записи, разделённые запятыми."
+
+#: app/Common/Utils/Tags.php:527
+msgid "The title of the parent post of the current page/post."
+msgstr "Заголовок родительской страницы/записи текущей страницы/записи."
+
+#: app/Common/Utils/Tags.php:526
+msgid "Parent Title"
+msgstr "Заголовок родителя"
+
+#: app/Common/Utils/Tags.php:522
+msgid "The meta description for the current page/post."
+msgstr "Мета-описание текущей страницы/записи."
+
+#: app/Common/Utils/Tags.php:516
+msgid "The name of the first term of a given taxonomy that is assigned to the current page/post."
+msgstr "Имя первого термина таксономии, присвоенного текущей странице/записи."
+
+#: app/Common/Utils/Tags.php:515
+msgid "Taxonomy Name"
+msgstr "Название таксономии"
+
+#: app/Common/Utils/Tags.php:511
+msgid "The term the user is searching for."
+msgstr "Текст, который ищет пользователь."
+
+#: app/Common/Utils/Tags.php:510
+msgid "Search Term"
+msgstr "Поиск текста"
+
+#: app/Common/Utils/Tags.php:505
+msgid "A custom field from the current page/post."
+msgstr "Произвольное поле текущей страницы/записи."
+
+#: app/Common/Utils/Tags.php:504
+msgid "Custom Field"
+msgstr "Произвольное поле"
+
+#: app/Common/Utils/Tags.php:500
+msgid "The tagline for your site, set in the general settings."
+msgstr "Краткое описание сайта, установленное в общих настройках."
+
+#: app/Common/Utils/Tags.php:499
+msgid "Tagline"
+msgstr "Слоган"
+
+#: app/Common/Utils/Tags.php:494
+msgid "The description for your site."
+msgstr "Описание данного сайта."
+
+#: app/Common/Utils/Tags.php:470 app/Common/Utils/Tags.php:482
+msgid "Site link (link as text)."
+msgstr "Ссылка на сайт (в виде текста)."
+
+#: app/Common/Utils/Tags.php:469
+msgid "Site Link (Alt)"
+msgstr "Ссылка на сайт (Alt)"
+
+#: app/Common/Utils/Tags.php:464
+msgid "Site link (name as text)."
+msgstr "Ссылка на сайт (имя как текст)."
+
+#: app/Common/Utils/Tags.php:463 app/Common/Utils/Tags.php:481
+msgid "Site Link"
+msgstr "Ссылка сайта"
+
+#: app/Common/Utils/Tags.php:459
+msgid "The separator defined in the search appearance settings."
+msgstr "Разделитель, установленный в настройках вида в поисковиках."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Breadcrumbs/Tags.php:130 app/Common/Utils/Tags.php:454
+msgid "The original title of the current post."
+msgstr "Оригинальный заголовок данной записи."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:447
+msgid "Post link (link as text)."
+msgstr "Ссылка на запись (ссылка как текст)."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:440
+msgid "Post link (name as text)."
+msgstr "Ссылка на запись (имя как текст)."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:434
+msgid "The year when the page/post was published, localized."
+msgstr "Год публикации страницы/записи."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:433
+msgid "%1$s Year"
+msgstr "Год %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:428
+msgid "The month when the page/post was published, localized."
+msgstr "Месяц публикации страницы/записи."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:427
+msgid "%1$s Month"
+msgstr "Месяц %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:422
+msgid "The day of the month when the page/post was published, localized."
+msgstr "День месяца публикации страницы/записи."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:421
+msgid "%1$s Day"
+msgstr "День %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:416
+msgid "The date when the page/post was published, localized."
+msgstr "Дата публикации страницы/записи."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:415
+msgid "%1$s Date"
+msgstr "Дата %1$s"
+
+#: app/Common/Utils/Tags.php:410
+msgid "The date of the current archive, localized."
+msgstr "Дата создания текущего архива."
+
+#: app/Common/Utils/Tags.php:409
+msgid "Archive Date"
+msgstr "Дата архива"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:405
+msgid "The content of your page/post."
+msgstr "Содержимое страницы/записи."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:404
+msgid "%1$s Content"
+msgstr "Содержимое %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:399
+msgid "The excerpt defined on your page/post. Will not fall back to the post content."
+msgstr "Отрывок, определенный для страницы/записи. Не будет уступать содержанию записи."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:398
+msgid "%1$s Excerpt Only"
+msgstr "Только отрывок %1$s"
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:393
+msgid "The excerpt defined on your page/post."
+msgstr "Отрывок, определённый для страницы/записи."
+
+#. Translators: 1 - The singular name of the post type.
+#: app/Common/Utils/Tags.php:392
+msgid "%1$s Excerpt"
+msgstr "Отрывок %1$s"
+
+#: app/Common/Utils/Tags.php:387
+msgid "The current year, localized."
+msgstr "Текущий год."
+
+#: app/Common/Utils/Tags.php:386
+msgid "Current Year"
+msgstr "Текущий год"
+
+#: app/Common/Utils/Tags.php:382
+msgid "The current month, localized."
+msgstr "Текущий месяц."
+
+#: app/Common/Utils/Tags.php:381
+msgid "Current Month"
+msgstr "Текущий месяц"
+
+#: app/Common/Utils/Tags.php:377
+msgid "The current day of the month, localized."
+msgstr "Текущий день месяца."
+
+#: app/Common/Utils/Tags.php:376
+msgid "Current Day"
+msgstr "Текущий день"
+
+#: app/Common/Utils/Tags.php:372
+msgid "The current date, localized."
+msgstr "Текущая дата."
+
+#: app/Common/Utils/Tags.php:371
+msgid "Current Date"
+msgstr "Текущая дата"
+
+#: app/Common/Utils/Tags.php:367
+msgid "The page number for the current paginated page."
+msgstr "Номер страницы для текущей разбивки страницы."
+
+#: app/Common/Breadcrumbs/Tags.php:196 app/Common/Utils/Tags.php:366
+msgid "Page Number"
+msgstr "Номер страницы"
+
+#: app/Common/Utils/Tags.php:362
+msgid "The permalink for the current page/post."
+msgstr "Постоянная ссылка для текущей страницы/записи."
+
+#: app/Common/Breadcrumbs/Tags.php:118 app/Common/Utils/Tags.php:361
+msgid "Permalink"
+msgstr "Постоянная ссылка"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:356
+msgid "Current or first category link (link as text)."
+msgstr "Ссылка на текущую или первую рубрику (ссылка как текст)."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:355 app/Common/Utils/Tags.php:446
+msgid "%1$s Link (Alt)"
+msgstr "Ссылка типа %1$s (Alt)"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:349
+msgid "Current or first category link (name as text)."
+msgstr "Ссылка на текущую или первую рубрику (имя как текст)."
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:348 app/Common/Utils/Tags.php:439
+msgid "%1$s Link"
+msgstr "Ссылка типа %1$s"
+
+#. Translators: 1 - The singular name of the current taxonomy.
+#: app/Common/Utils/Tags.php:343
+msgid "Current or first category description."
+msgstr "Описание текущей или первой рубрики."
+
+#. Translators: 1 - The singular name of the current taxonomy.
+#: app/Common/Utils/Tags.php:342
+msgid "%1$s Description"
+msgstr "Описание %1$s"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Utils/Tags.php:330 app/Common/Utils/Tags.php:337
+msgid "Current or first category title."
+msgstr "Заголовок текущей или первой рубрики."
+
+#: app/Common/Utils/Tags.php:325
+msgid "The title of the current archive."
+msgstr "Заголовок текущего архива."
+
+#: app/Common/Utils/Tags.php:324
+msgid "Archive Title"
+msgstr "Заголовок архива"
+
+#: app/Common/Breadcrumbs/Tags.php:161 app/Common/Utils/Tags.php:319
+msgid "Author Last Name"
+msgstr "Фамилия автора"
+
+#: app/Common/Breadcrumbs/Tags.php:156 app/Common/Utils/Tags.php:314
+msgid "Author First Name"
+msgstr "Имя автора"
+
+#: app/Common/Utils/Tags.php:309
+msgid "Author Name"
+msgstr "Имя автора"
+
+#: app/Common/Utils/Tags.php:305
+msgid "The biography of the author."
+msgstr "Именно биография автора."
+
+#: app/Common/Utils/Tags.php:304
+msgid "Author Biography"
+msgstr "Биография автора"
+
+#: app/Common/Utils/Tags.php:300
+msgid "Author archive link (link as text)."
+msgstr "Ссылка на архив автора (ссылка как текст)."
+
+#: app/Common/Utils/Tags.php:299
+msgid "Author Link (Alt)"
+msgstr "Ссылка автора (Alt)"
+
+#: app/Common/Utils/Tags.php:295
+msgid "Author archive link (name as text)."
+msgstr "Ссылка на архив автора (имя как текст)."
+
+#: app/Common/Utils/Tags.php:294
+msgid "Author Link"
+msgstr "Ссылка на автора"
+
+#: app/Common/Utils/Tags.php:290
+msgid "Caption for the current media file."
+msgstr "Подпись текущего медиафайла."
+
+#: app/Common/Utils/Tags.php:289
+msgid "Media Caption"
+msgstr "Подпись медиа"
+
+#: app/Common/Utils/Tags.php:284
+msgid "Image Alt Tag"
+msgstr "Alt-тег изображения"
+
+#: app/Common/Options/Options.php:558
+msgid "Archives for"
+msgstr "Архив"
+
+#: app/Common/Traits/Helpers/Wp.php:184
+msgid "Attachments"
+msgstr "Вложения"
+
+#. Translators: 1 - "statically" or "dynamically", 2 - The date, 3 - The  time,
+#. 4 - The plugin name ("All in One SEO").
+#: app/Common/Sitemap/Output.php:37
+msgid "This sitemap was %1$s generated on %2$s at %3$s by %4$s - the original SEO plugin for WordPress."
+msgstr "Эта карта сайта была %1$s создана %2$s в %3$s - оригинальным SEO-плагином для WordPress %4$s."
+
+#: app/Common/Sitemap/Output.php:32
+msgid "statically"
+msgstr "статически"
+
+#: app/Common/Sitemap/Sitemap.php:144
+msgid "Delete Static Files"
+msgstr "Удалить статические файлы"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - Same as previous.
+#: app/Common/Sitemap/Sitemap.php:137
+msgid ""
+"%1$s has detected static sitemap files in the root folder of your WordPress installation.\n"
+"\t\t\t\tAs long as these files are present, %2$s is not able to dynamically generate your sitemap."
+msgstr ""
+"%1$s обнаружил статические файлы карты сайта в корневой папке вашего WordPress-сайиа.\n"
+"\t\t\t\tПока эти файлы существуют, %2$s не сможет динамически создавать карту сайта."
+
+#: app/Common/Sitemap/Sitemap.php:134
+msgid "Static sitemap files detected"
+msgstr "Обнаружены статические файлы карты сайта"
+
+#. Translators: 1 - The phone number.
+#: app/Common/ImportExport/RankMath/TitleMeta.php:409
+msgid ""
+"We were unable to import the phone number that you previously entered for your Knowledge Graph schema markup.\n"
+"\t\t\t\t\tAs it needs to be internationally formatted, please enter it (%1$s) with the country code, e.g. +1 (555) 555-1234."
+msgstr ""
+"Нам не удалось импортировать номер телефона, который вы ранее ввели для разметки схемы графа знаний.\n"
+"\t\t\t\t\tПоскольку он должен иметь международный формат, введите его (%1$s) с кодом страны, например +7 (495) 777-1234."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Api/Wizard.php:264
+msgid "You selected to install the free MonsterInsights Analytics plugin during the setup of %1$s, but there was an issue during installation. Click below to manually install."
+msgstr "Вы инициировали установку бесплатного подключаемого модуля MonsterInsights Analytics во время установки %1$s, но в процессе возникла проблема. Нажмите ниже, чтобы установить его вручную."
+
+#: app/Common/Api/Wizard.php:261 app/Common/Api/Wizard.php:269
+msgid "Install MonsterInsights"
+msgstr "Установить MonsterInsights"
+
+#: app/Common/Api/Wizard.php:57
+msgid "Try Again"
+msgstr "Повторить"
+
+#: app/Common/Api/Wizard.php:54
+msgid "Unfortunately, there was an error importing your SEO plugin settings. This could be due to an incompatibility in the version installed. Make sure you are on the latest version of the plugin and try again."
+msgstr "К сожалению, при импорте ваших настроек SEO-плагина произошла ошибка. Вероятно, это связано с несовместимостью установленной версии. Убедитесь, что у вас установлена ​​последняя версия плагина, и повторите импорт."
+
+#: app/Common/Api/Wizard.php:53
+msgid "SEO Plugin Import Failed"
+msgstr "Ошибка импорта SEO-плагина"
+
+#: app/Common/Api/Tools.php:224
+msgid "An error occurred while trying to write to the .htaccess file. Please try again later."
+msgstr "При попытке изменения файла .htaccess произошла ошибка. Повторите попытку позже."
+
+#: app/Common/Api/Tools.php:121
+msgid "Unable to send debug email, please check your email send settings and try again."
+msgstr "Не удалось отправить отладочное электрописьмо, проверьте настройки отправки электронной почты и повторите попытку."
+
+#. Translators: 1 - The plugin name ("All in One SEO"), 2 - The Site URL.
+#: app/Common/Api/Tools.php:100
+msgid "%1$s Debug Info from %2$s"
+msgstr "%1$s Отладочная информация от %2$s"
+
+#: app/Common/Api/Tools.php:42 app/Common/Api/Tools.php:66
+msgid "There was an error deleting the physical robots.txt file."
+msgstr "В процессе удаления физического файла robots.txt произошла ошибка."
+
+#: app/Common/Api/Tools.php:33
+msgid "There was an error importing the physical robots.txt file."
+msgstr "В процессе импорта физического файла robots.txt произошла ошибка."
+
+#: app/Common/Api/Plugins.php:126 app/Common/Api/Sitemaps.php:84
+msgid "Deactivation failed. Please check permissions and try again."
+msgstr "Деактивация не удалась. Пожалуйста, проверьте разрешения и попробуйте снова."
+
+#: app/Common/Api/Plugins.php:24
+msgid "Installation failed. Please check permissions and try again."
+msgstr "Установка не удалась. Пожалуйста, проверьте разрешения и попробуйте снова."
+
+#: app/Common/Api/PostsTerms.php:225
+msgid "Post ID is missing."
+msgstr "Отсутствует ID записи."
+
+#: app/Common/Api/PostsTerms.php:136 app/Common/Api/PostsTerms.php:168
+msgid "No post ID was provided."
+msgstr "Идентификатор записи не был предоставлен."
+
+#: app/Common/Migration/SocialMeta.php:106
+msgid "Review Your Facebook Open Graph Titles and Descriptions"
+msgstr "Просмотр заголовка и описания модуля Facebook Open Graph"
+
+#: app/Common/Migration/SocialMeta.php:90
+msgid "Due to some changes in how our Open Graph integration works, your Facebook Titles and Descriptions may have changed. You were using the following options that have been removed:"
+msgstr "Из-за некоторых изменений механизма интеграции с Open Graph, ваши заголовки и описания в Facebook могли измениться. Вы использовали следующие параметры, которые были удалены:"
+
+#. Translators: 1 - The phone number.
+#: app/Common/Migration/GeneralSettings.php:740
+msgid "The phone number that you previously entered for your Knowledge Graph schema markup is invalid. As it needs to be internationally formatted, please enter it (%1$s) again with the country code, e.g. +1 (555) 555-1234."
+msgstr "Номер телефона, который вы ранее вводили для разметки схемы графа знаний, недействителен. Поскольку он должен иметь международный формат, введите его (%1$s) еще раз с кодом страны, в таком формате: +7 (495) 555-1234."
+
+#: app/Common/ImportExport/RankMath/TitleMeta.php:406
+#: app/Common/Migration/GeneralSettings.php:737
+msgid "Invalid Phone Number for Knowledge Graph"
+msgstr "Неверный номер телефона для графа знаний"
+
+#: app/Common/Migration/GeneralSettings.php:467
+msgid "Blank Title Formats Detected"
+msgstr "Обнаружены пустые форматы заголовков"
+
+#: app/Common/Migration/GeneralSettings.php:375
+msgid "Review Now"
+msgstr "Проверить сейчас"
+
+#. Translators: 1 - All in One SEO.
+#: app/Common/Migration/GeneralSettings.php:370
+msgid "Due to a bug in the previous version of %1$s, your homepage title and description may have changed. Please take a minute to review your homepage settings to verify that they are correct."
+msgstr "Из-за ошибки в предыдущей версии %1$s, название и описание домашней страницы сайта могли измениться. Найдите минутку, чтобы проверить настройки домашней страницы, с целью убедиться в их корректности."
+
+#: app/Common/Migration/GeneralSettings.php:367
+msgid "Review Your Homepage Title & Description"
+msgstr "Проверьте заголовок и описание домашней страницы"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - Same as previous.
+#: app/Common/Migration/Helpers.php:161
+msgid ""
+"%1$s has detected that you have one or more custom fields with spaces in their name.\n"
+"\t\t\t\t\t\t\t\tIn order for %2$s to correctly parse these custom fields, their names cannot contain any spaces."
+msgstr ""
+"%1$s обнаружил, что у вас есть одно или несколько произвольных полей с пробелами в названии.\n"
+"\t\t\t\t\t\t\t\tЧтобы %2$s мог правильно проанализировать эти поля, их названия не должны содержать пробелов."
+
+#: app/Common/Migration/Helpers.php:158
+msgid "Custom field names with spaces detected"
+msgstr "Произвольные поля с пробелами в названиях"
+
+#. Translators: 1 - Opening HTML link tag, 2 - Closing HTML link tag.
+#: app/Common/Views/sitemap/xsl/templates/header.php:26
+msgid "You can find more information about XML Sitemaps at %1$ssitemaps.org%2$s."
+msgstr "Дополнительную информацию об XML-файлах карты сайта можно найти на %1$ssitemaps.org%2$s."
+
+#: app/Common/Tools/RobotsTxt.php:363
+msgid "Physical Robots.txt File Detected"
+msgstr "Обнаружен физический файл Robots.txt"
+
+#: app/Common/Tools/SystemStatus.php:296 app/Common/Tools/SystemStatus.php:328
+msgid "needs update"
+msgstr "требует обновления"
+
+#: app/Common/Tools/SystemStatus.php:194
+msgid "Not Set"
+msgstr "Не задано"
+
+#: app/Common/Tools/SystemStatus.php:193
+msgid "MySQL SQL Mode"
+msgstr "Режим SQL MySQL"
+
+#: app/Common/Tools/SystemStatus.php:182
+msgid "unknown"
+msgstr "неизвестный"
+
+#: app/Common/Tools/SystemStatus.php:181
+msgid "Web Server"
+msgstr "Сервер"
+
+#: app/Common/Tools/SystemStatus.php:121
+msgid "Constants"
+msgstr "Константы"
+
+#: app/Common/Tools/SystemStatus.php:106
+msgid "Base URL:"
+msgstr "Базовый URL:"
+
+#: app/Common/Tools/SystemStatus.php:105
+msgid "Base Directory:"
+msgstr "Базовая директория:"
+
+#: app/Common/Tools/SystemStatus.php:104
+msgid "Url:"
+msgstr "Url:"
+
+#: app/Common/Tools/SystemStatus.php:103
+msgid "Path:"
+msgstr "Путь:"
+
+#: app/Common/Tools/SystemStatus.php:101
+msgid "Upload Directory Info"
+msgstr "Информацию о каталоге загрузки"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Hidden"
+msgstr "Сайт скрыт"
+
+#: app/Common/Tools/SystemStatus.php:98
+msgid "Visible"
+msgstr "Сайт виден"
+
+#: app/Common/Tools/SystemStatus.php:93
+msgid "Front Page Info"
+msgstr "Информация о главной странице"
+
+#: app/Common/Tools/SystemStatus.php:89
+msgid "User Count"
+msgstr "Число пользователей"
+
+#: app/Common/Tools/SystemStatus.php:77
+msgid "Permalink Structure"
+msgstr "Структура постоянной ссылки"
+
+#: app/Common/Tools/SystemStatus.php:61
+msgid "User Language"
+msgstr "Язык пользователя"
+
+#: app/Common/Tools/SystemStatus.php:42
+msgid "Latest version:"
+msgstr "Последняя версия:"
+
+#: app/Common/Tools/BadBotBlocker.php:223
+msgid "(Invalid IP)"
+msgstr "(некорректный IP)"
+
+#. Translators: 1 - The estimated reading time.
+#: app/Common/Social/Twitter.php:239
+msgid "%1$s minute"
+msgid_plural "%1$s minutes"
+msgstr[0] "%1$s минута"
+msgstr[1] "%1$s минуты"
+msgstr[2] "%1$s минут"
+
+#: app/Common/Social/Twitter.php:237
+msgid "Est. reading time"
+msgstr "Примерное время на чтение"
+
+#: app/Common/Social/Twitter.php:228
+msgid "Written by"
+msgstr "Автор"
+
+#. Translators: 1 - The date the article was published on.
+#: app/Common/Schema/Graphs/NewsArticle.php:31
+msgid "Published on %1$s."
+msgstr "Опубликовано в %1$s."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/PostSettings.php:135
+msgid "%1$s Settings"
+msgstr "Настройки %1$s"
+
+#: app/Common/Admin/SiteHealth.php:379
+msgid "Your entire site is set to globally nofollow content."
+msgstr "Всему содержимому сайта установлен nofollow."
+
+#: app/Common/Admin/SiteHealth.php:313
+msgid "Your entire site is set to globally noindex content."
+msgstr "На всем сайте к содержимому применен noindex."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:292
+msgid "%1$s is updated to the latest version"
+msgstr "%1$s обновлен до последней версии"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:275
+msgid "%1$s needs to be updated"
+msgstr "%1$s требует обновления"
+
+#: app/Common/Admin/SiteHealth.php:200 app/Common/Admin/SiteHealth.php:235
+msgid "Go to Schema Settings"
+msgstr "Перейти к настройкам Schema"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:52
+msgid "%1$s Schema Markup"
+msgstr "Schema-разметка %1$s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:46
+msgid "%1$s Plugin Update"
+msgstr "Обновление плагина %1$s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:41
+msgid "%1$s Site Info"
+msgstr "Информация о сайте %1$s"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:36
+msgid "%1$s Site Public"
+msgstr "Общедоступный сайт %1$s"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Standalone/SetupWizard.php:173
+msgid "%1$s &rsaquo; Onboarding Wizard"
+msgstr "%1$s &rsaquo; Помощник настройки"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Admin/Admin.php:998
+msgid "%1$s Score"
+msgstr "Рейтинг %1$s"
+
+#. Translators: 1 - The short plugin name ("AIOSEO").
+#: app/Common/Standalone/DetailsColumn.php:114
+msgid "%1$s Details"
+msgstr "Информация о %1$s"
+
+#. Translators: 1 - The plugin name ("All in One SEO"), - 2 - This placeholder
+#. will be replaced with star icons, - 3 - "WordPress.org" - 4 - The plugin
+#. name ("All in One SEO").
+#: app/Common/Admin/Admin.php:937
+msgid "Please rate %1$s %2$s on %3$s to help us spread the word. Thank you!"
+msgstr "Оцените %1$s %2$s на %3$s, чтобы помочь нашему плагину становиться популярнее. Спасибо!"
+
+#. Translators: 1 - HTML whitespace character, 2 - Opening HTML code tag, 3 -
+#. Closing HTML code tag.
+#: app/Common/Admin/Admin.php:310
+msgid "%1$sAdd %2$srel=\"UGC\"%3$s to link"
+msgstr "%1$sВставить в ссылку %2$srel=\"UGC\"%3$s"
+
+#. Translators: 1 - HTML whitespace character, 2 - Opening HTML code tag, 3 -
+#. Closing HTML code tag.
+#: app/Common/Admin/Admin.php:308
+msgid "%1$sAdd %2$srel=\"sponsored\"%3$s to link"
+msgstr "%1$sВставить в ссылку %2$srel=\"sponsored\"%3$s"
+
+#. Translators: 1 - HTML whitespace character, 2 - Opening HTML code tag, 3 -
+#. Closing HTML code tag.
+#: app/Common/Admin/Admin.php:306
+msgid "%1$sAdd %2$srel=\"nofollow\"%3$s to link"
+msgstr "%1$sУстановить ссылке %2$srel=\"nofollow\"%3$s"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Migration.php:45
+msgid "This notice will automatically disappear as soon as the migration has completed. Meanwhile, everything should continue to work as expected."
+msgstr "Это уведомление автоматически исчезнет после завершения миграции. Между тем, всё должно продолжать работать, как ожидалось."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Migration.php:44
+msgid "%1$s is currently upgrading your database and migrating your SEO data in the background."
+msgstr "%1$s в текущий момент обновляет базу данных и перемещает ваши SEO-данные в фоновом режиме."
+
+#. Translators: 1 - The plugin name ("AIOSEO).
+#: app/Common/Admin/Notices/Migration.php:42
+msgid "%1$s V3->V4 Migration In Progress"
+msgstr "Миграция %1$s V3 -> V4 в процессе"
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Import.php:41
+msgid "This notice will automatically disappear as soon as the import has completed. Meanwhile, everything should continue to work as expected."
+msgstr "Это уведомление автоматически исчезнет, ​​как только импорт будет завершен. Между тем, всё должно продолжать работать, как ожидалось."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Import.php:40
+msgid "%1$s is importing your existing SEO data in the background."
+msgstr "%1$s импортирует имеющиеся SEO-данные в фоновом режиме."
+
+#: app/Common/Admin/Notices/Import.php:38
+msgid "SEO Meta Import In Progress"
+msgstr "Выполняется импорт SEO-метафайлов "
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:99
+msgid "CEO of %1$s"
+msgstr "CEO %1$s"
+
+#: app/Common/Admin/Notices/Notices.php:544
+msgid "Conflicting Plugins Detected"
+msgstr "Обнаружены конфликтующие плагины"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:467
+msgid "Warning: %1$s has detected that you may have an invalid description format. This could lead to descriptions not being properly applied to your content."
+msgstr "Предупреждение: %1$s обнаружил, что на сайте, вероятно, используется недопустимый формат описания. Это может привести к некорректному применению описаний к контенту."
+
+#: app/Common/Admin/Notices/Notices.php:464
+msgid "Invalid Description Format"
+msgstr "Некорректный формат описания"
+
+#: app/Common/Admin/Notices/Notices.php:423
+#: app/Common/Admin/Notices/Notices.php:472
+#: app/Common/Admin/Notices/Notices.php:548
+#: app/Common/ImportExport/RankMath/TitleMeta.php:415
+#: app/Common/Migration/GeneralSettings.php:745
+msgid "Fix Now"
+msgstr "Исправить"
+
+#: app/Common/Admin/Notices/Notices.php:415
+msgid "Search Engines Blocked"
+msgstr "Поисковые системы заблокированы"
+
+#: app/AIOSEO.php:239
+msgid "Plugin is missing required dependencies. Please contact support for more information."
+msgstr "В плагине отсутствуют необходимые зависимости. Пожалуйста, свяжитесь со службой поддержки для получения дополнительной информации."
+
+#. Translators: 1 - "WooCommerce".
+#: app/Lite/Admin/Notices/Notices.php:78
+msgid "Advanced %1$s Support"
+msgstr "Расширенная поддержка %1$s"
+
+#: app/Lite/Admin/Connect.php:391
+msgid "The Pro version installed correctly, but it needs to be activated from the Plugins page inside your WordPress admin."
+msgstr "Версия Pro установлена ​​правильно, но её необходимо активировать на странице плагинов WordPress."
+
+#: app/Lite/Admin/Connect.php:317
+msgid "You are not licensed."
+msgstr "У вас нет лицензии."
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:287
+msgid "Could not install upgrade. Please download from %1$s and install manually."
+msgstr "Не удалось установить обновление. Загрузите из %1$s и установите вручную."
+
+#: app/Lite/Admin/Connect.php:233
+msgid "Pro version is already installed."
+msgstr "Pro-версия уже установлена."
+
+#: app/Lite/Admin/Connect.php:221
+msgid "Please enter your license key to connect."
+msgstr "Пожалуйста, введите свой лицензионный ключ для подключения."
+
+#: app/Lite/Admin/Connect.php:215
+msgid "You are not allowed to install plugins."
+msgstr "У вас недостаточно прав для установки плагинов."
+
+#. Translators: 1 - The plugin name ("All in One SEO").
+#: app/Lite/Admin/Connect.php:161
+msgid "%1$s &rsaquo; Connect"
+msgstr "%1$s &rsaquo; Подключение"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:208
+msgid "General"
+msgstr "Общие"
+
+#: app/Common/Models/Post.php:434
+msgid "Please add a title first."
+msgstr "Сначала добавьте заголовок."
+
+#: app/Common/Models/Post.php:425 app/Common/Models/Post.php:443
+msgid "Please add some content first."
+msgstr "Сначала добавьте содержимое."
+
+#. Translators: This refers to the homepage of the site.
+#: app/Common/Breadcrumbs/Breadcrumbs.php:499
+#: app/Common/Options/Options.php:557 app/Common/Schema/Breadcrumb.php:306
+#: app/Common/Views/sitemap/xsl/partials/breadcrumb.php:24
+msgid "Home"
+msgstr "Главная"
+
+#: app/Common/Breadcrumbs/Tags.php:171
+msgid "404 Error Format"
+msgstr "Формат ошибки 404"
+
+#: app/Common/Breadcrumbs/Tags.php:141 app/Common/Utils/Tags.php:458
+msgid "Separator"
+msgstr "Разделитель"
+
+#: app/Common/Views/sitemap/html/widget-options.php:128
+msgid "ID"
+msgstr "ID"
+
+#. Translators: 1 - The type of page (Post, Page, Category, Tag, etc.).
+#: app/Common/Breadcrumbs/Tags.php:129 app/Common/Breadcrumbs/Tags.php:135
+#: app/Common/Utils/Tags.php:336 app/Common/Utils/Tags.php:453
+msgid "%1$s Title"
+msgstr "%1$s: заголовок"
+
+#: app/Common/Tools/RobotsTxt.php:372
+msgid "Import and Delete"
+msgstr "Импорт и удаление"
+
+#. Translators: 1 - The plugin short name ("AIOSEO"), 2 - The plugin short name
+#. ("AIOSEO").
+#: app/Common/Tools/RobotsTxt.php:366
+msgid "%1$s has detected a physical robots.txt file in the root folder of your WordPress installation. We recommend removing this file as it could cause conflicts with WordPress' dynamically generated one. %2$s can import this file and delete it, or you can simply delete it."
+msgstr "%1$s обнаружил физический файл robots.txt в корневой папке WordPress. Рекомендуется удалить этот файл, так как он может вызвать конфликт с динамически созданным файлом. %2$s может импортировать данные этого файла и дезинтегрировать его, или вы можете просто удалить его."
+
+#: app/Common/Admin/Admin.php:188
+msgid "Local SEO"
+msgstr "Локальное SEO"
+
+#: app/Common/Tools/SystemStatus.php:273
+msgid "Must-Use Plugins"
+msgstr "Необходимые плагины"
+
+#: app/Common/Tools/SystemStatus.php:174
+msgid "Server Info"
+msgstr "Информация о сервере"
+
+#: app/Common/Admin/Admin.php:174
+msgid "Sitemaps"
+msgstr "Карты сайта"
+
+#: app/Common/Admin/Admin.php:170
+msgid "Social Networks"
+msgstr "Соцсети"
+
+#: app/Common/Admin/Notices/Notices.php:469
+msgid "A Description tag is required in order to properly display your meta descriptions on your site."
+msgstr "Тег «Description» необходим для корректного отображения на сайте мета-описаний."
+
+#: app/Common/Tools/RobotsTxt.php:374
+msgid "Delete"
+msgstr "Удалить"
+
+#: app/Common/Tools/SystemStatus.php:65
+msgid "Timezone"
+msgstr "Часовой пояс"
+
+#: app/Common/Breadcrumbs/Widget.php:104
+msgid "Title:"
+msgstr "Заголовок:"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:647
+msgid "media"
+msgstr "медиа"
+
+#: app/Common/Admin/Admin.php:158
+msgid "Dashboard"
+msgstr "Консоль"
+
+#: app/Common/Admin/Admin.php:166
+msgid "Search Appearance"
+msgstr "Вид в поисковиках"
+
+#: app/Common/Admin/Admin.php:204
+msgid "Analytics"
+msgstr "Аналитика"
+
+#: app/Common/Admin/Admin.php:196
+msgid "Tools"
+msgstr " Инструменты"
+
+#: app/Common/Admin/Admin.php:192
+msgid "SEO Analysis"
+msgstr "Анализ SEO"
+
+#: app/Common/Admin/Admin.php:184
+msgid "Redirects"
+msgstr "Переадресации"
+
+#: app/Common/Options/Options.php:549
+msgid "default"
+msgstr "по умолчанию"
+
+#: app/Common/Views/sitemap/html/widget-options.php:144
+msgid "Exclude Posts / Pages"
+msgstr "Исключить записи/страницы"
+
+#. Plugin URI of the plugin
+#. Author URI of the plugin
+msgid "https://aioseo.com/"
+msgstr "https://aioseo.com/"
+
+#: app/Common/Admin/SiteHealth.php:329 app/Common/Admin/SiteHealth.php:395
+msgid "Search Page"
+msgstr "Страница поиска"
+
+#: app/Common/Admin/SiteHealth.php:328 app/Common/Admin/SiteHealth.php:394
+msgid "Date Archives"
+msgstr "Архивы дат"
+
+#: app/Common/Admin/SiteHealth.php:327 app/Common/Admin/SiteHealth.php:393
+msgid "Author Archives"
+msgstr "Архивы авторов"
+
+#: app/Common/Admin/SiteHealth.php:323 app/Common/Admin/SiteHealth.php:389
+msgid "Paginated Content"
+msgstr "Пагинированное содержимое"
+
+#: app/Common/Utils/Tags.php:531
+msgid "Categories"
+msgstr "Рубрики"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:94
+msgid "The fields below contain important SEO information from %1$s that may effect your site."
+msgstr "Поля ниже содержат важную SEO-информацию от %1$s, которая может повлиять на ваш сайт."
+
+#: app/Common/Admin/SiteHealth.php:81
+msgid "Nofollowed content"
+msgstr "Содержимое с nofollow"
+
+#: app/Common/Admin/SiteHealth.php:73
+msgid "Noindexed content"
+msgstr "Содержимое с noindex"
+
+#: app/Common/Admin/SiteHealth.php:295
+msgid "Fantastic! By updating to the latest version, you have access to all the latest features, bug fixes and security improvements."
+msgstr "Отлично! Обновившись до последней версии, вы получаете доступ ко всем последним функциям, исправлениям ошибок и улучшениям безопасности."
+
+#: app/Common/Admin/SiteHealth.php:283
+msgid "Go to Plugins"
+msgstr "Перейти к плагинам"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:280
+msgid "An update is available for %1$s. Upgrade to the latest version to receive all the latest features, bug fixes and security improvements."
+msgstr "Для %1$s доступно обновление. Обновитесь до последней версии, чтобы получить доступ к новым функциям, исправления ошибок кода и повышение безопасности."
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:245
+msgid "Awesome! These are required for %1$s's Person schema markup."
+msgstr "Отлично! Они необходимы для %1$s Schema-разметки персоны."
+
+#: app/Common/Admin/SiteHealth.php:242
+msgid "Your Person Name and Image are set"
+msgstr "Ваше имя и фотография установлены"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:232
+msgid "Your Person Name and/or Image are blank. These values are required for %1$s's Person schema markup."
+msgstr "Ваше имя и/или фотография не указаны. Эти значения необходимы для %1$s Schema-разметки персоны."
+
+#: app/Common/Admin/SiteHealth.php:229
+msgid "Your Person Name and/or Image are blank"
+msgstr "Ваше имя и/или фотография не установлены"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:210
+msgid "Awesome! These are required for %1$s's Organization schema markup."
+msgstr "Отлично! Они необходимы для %1$s Schema-разметки организации."
+
+#: app/Common/Admin/SiteHealth.php:207
+msgid "Your Organization Name and Logo are set"
+msgstr "Логотип и название вашей организации установлены"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:197
+msgid "Your Organization Name and/or Logo are blank. These values are required for %1$s's Organization schema markup."
+msgstr "Название вашей организации и/или логотип не указаны. Эти данные необходимы для %1$s Schema-разметки организации."
+
+#: app/Common/Admin/SiteHealth.php:194
+msgid "Your Organization Name and/or Logo are blank"
+msgstr "Логотип и/или название вашей организации не установлены"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:167
+msgid "Great! These are required for %1$s's schema markup and are often used as fallback values for various other features."
+msgstr "Отлично! Они необходимы для Schema-разметки %1$s и часто используются в качестве резервных значений для различных других функций."
+
+#: app/Common/Admin/SiteHealth.php:164
+msgid "Your Site Title and Tagline are set"
+msgstr "Название и слоган сайта установлены"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/SiteHealth.php:151
+msgid "Your Site Title and/or Tagline are blank. We recommend setting both of these values as %1$s requires these for various features, including our schema markup"
+msgstr "Заголовок и/или слоган вашего сайта пусты. Мы рекомендуем установить оба этих значения, поскольку %1$s требует их для различных функций, включая нашу Schema-разметку"
+
+#: app/Common/Admin/SiteHealth.php:148
+msgid "Your Site Title and/or Tagline are blank"
+msgstr "Название сайта и/или слоган не указаны"
+
+#: app/Common/Admin/SiteHealth.php:129
+msgid "Your site is set to public. Search engines will index your website and it will appear in search results."
+msgstr "Ваш сайт открыт для публичного доступа. Поисковые системы будут индексировать ваш сайт, и он появится в результатах поиска."
+
+#: app/Common/Admin/SiteHealth.php:128
+msgid "Your site appears in search results"
+msgstr "Ваш сайт отображается в поисковиках"
+
+#: app/Common/Admin/SiteHealth.php:121
+msgid "Go to Settings > Reading"
+msgstr "Перейдите в Настройки > Чтение"
+
+#: app/Common/Admin/SiteHealth.php:120
+msgid "Your site is set to private. This means WordPress asks search engines to exclude your website from search results."
+msgstr "Ваш сайт закрыт для публичного доступа. WordPress информирует поисковые системы, что нужно исключить сайт из поисковых запросов."
+
+#: app/Common/Admin/SiteHealth.php:119
+msgid "Your site does not appear in search results"
+msgstr "Ваш сайт не отображается в поисковиках"
+
+#: app/Common/Utils/Tags.php:320
+msgid "The last name of the post author."
+msgstr "Фамилия автора записи."
+
+#: app/Common/Migration/GeneralSettings.php:471
+#: app/Common/Migration/SocialMeta.php:110
+msgid "Learn More"
+msgstr "Узнать больше"
+
+#: app/Common/Admin/Admin.php:500
+msgid "LinkedIn Post Inspector"
+msgstr "Инспектор записей LinkedIn"
+
+#: app/Common/Admin/SiteHealth.php:157
+msgid "Go to Settings > General"
+msgstr "Перейти в Настройки > Общие"
+
+#: app/Common/Admin/Admin.php:394 app/Common/Admin/Admin.php:669
+msgid "Notifications"
+msgstr "Уведомления"
+
+#: app/Common/Views/sitemap/html/widget-options.php:119
+msgid "Publish Date"
+msgstr "Дату публикации"
+
+#: app/Common/Views/sitemap/xsl/default.php:102
+#: app/Common/Views/sitemap/xsl/default.php:190
+#: app/Common/Views/sitemap/xsl/default.php:268
+#: app/Common/Views/sitemap/xsl/templates/header.php:37
+msgid "URL"
+msgstr "URL"
+
+#: app/Common/Admin/Notices/Review.php:92
+msgid "Not Really..."
+msgstr "Не особо..."
+
+#: app/Common/Admin/Notices/Review.php:91
+msgid "Yes I love it"
+msgstr "Да, мне нравится"
+
+#. Translators: 1 - The marketing site anchor name ("aioseo.com").
+#: app/Lite/Admin/Connect.php:288
+msgid "Plugin installed & activated."
+msgstr "Плагин установлен и активирован."
+
+#: app/Common/Admin/Admin.php:304
+msgid "Link has been inserted."
+msgstr "Ссылка вставлена."
+
+#: app/Common/Admin/Admin.php:302
+msgid "No results found."
+msgstr "Безрезультатно."
+
+#: app/Common/Admin/Admin.php:300
+msgid "(no title)"
+msgstr "(без заголовка)"
+
+#: app/Common/Admin/Admin.php:299
+msgid "Add Link"
+msgstr "Добавить ссылку"
+
+#: app/Common/Admin/Admin.php:298
+msgid "Update"
+msgstr "Обновить"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:521
+msgid "Warning: %1$s has detected other active SEO or sitemap plugins. We recommend that you deactivate the following plugins to prevent any conflicts:"
+msgstr "Внимание: %1$s обнаружил другие активные плагины SEO или карты сайта. Для предотвращения конфликтов систем, рекомендуем отключить следующие плагины:"
+
+#: app/Common/Admin/Admin.php:920
+msgid "Give us a 5-star rating!"
+msgstr "Оцените нас на 5 звёзд!"
+
+#: app/Common/Admin/Admin.php:495
+msgid "Mobile-Friendly Test"
+msgstr "Тест поддержки мобильных устройств"
+
+#: app/Common/Admin/Admin.php:490
+msgid "Google Page Speed Test"
+msgstr "Тест Google PageSpeed"
+
+#: app/Common/Admin/Admin.php:485
+msgid "CSS Validator"
+msgstr "Валидатор CSS"
+
+#: app/Common/Admin/Admin.php:480
+msgid "HTML Validator"
+msgstr "Валидатор HTML"
+
+#: app/Common/Admin/Admin.php:475
+msgid "Pinterest Rich Pins Validator"
+msgstr "Валидатор Pinterest Rich Pins"
+
+#: app/Common/Admin/Admin.php:470
+msgid "Facebook Debugger"
+msgstr "Отладчик Facebook"
+
+#: app/Common/Admin/Admin.php:465
+msgid "Google Structured Data Test"
+msgstr "Google тест структурированных данных"
+
+#: app/Common/Admin/Admin.php:460
+msgid "Check Google Cache"
+msgstr "Проверка кэша Google"
+
+#: app/Common/Admin/Admin.php:455
+msgid "Check links to this URL"
+msgstr "Проверьте ссылки на этот URL"
+
+#: app/Common/Admin/Admin.php:447
+msgid "Analyze this page"
+msgstr "Анализировать страницу"
+
+#. Translators: This is an action link users can click to open a feature
+#. request.
+#: app/Lite/Main/Filters.php:30
+msgid "Suggest a Feature"
+msgstr "Предложить функцию"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:600
+msgid "never"
+msgstr "никогда"
+
+#: app/Common/Utils/Tags.php:285
+msgid "Your image's alt tag attribute."
+msgstr "Атрибут alt-тега вашего изображения."
+
+#. Translators: 1 - "Pro".
+#: app/Lite/Admin/Notices/Notices.php:84
+msgid "Upgrade to %1$s"
+msgstr "Улучшить до %1$s"
+
+#: app/Common/Admin/Admin.php:208
+msgid "About Us"
+msgstr "О разработчиках"
+
+#: app/Common/Admin/Notices/Review.php:102
+msgid "I already did"
+msgstr "Уже сделано!"
+
+#: app/Common/Admin/Notices/Review.php:101
+msgid "Nope, maybe later"
+msgstr "Не сейчас, возможно позже"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:100
+msgid "Ok, you deserve it"
+msgstr "OK, вы заслужили это"
+
+#: app/Common/Admin/Notices/Review.php:97
+msgid "That's awesome! Could you please do me a BIG favor and give it a 5-star rating on WordPress to help us spread the word and boost our motivation?"
+msgstr "Это отлично! Не могли бы вы оказать нам БОЛЬШУЮ услугу и поставить нашему плагину максимальную оценку в каталоге WordPress, чтобы помочь ему становиться популярнее и повысить нашу мотивацию?"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:95
+msgid "Give feedback"
+msgstr "Оставьте отзыв"
+
+#. Translators: The plugin name ("All in One SEO").
+#: app/Common/Admin/Notices/Review.php:94
+msgid "We're sorry to hear you aren't enjoying %1$s. We would love a chance to improve. Could you take a minute and let us know what we can do better?"
+msgstr "Сожалеем, что вам не понравился %1$s. И мы хотели бы иметь шанс стать лучше. Пожалуйста, уделите минуту и ​​сообщить нам, что мы можем исправить или улучшить?"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Review.php:88
+msgid "Are you enjoying %1$s?"
+msgstr "Тоже нравится %1$s?"
+
+#. Author of the plugin
+msgid "All in One SEO Team"
+msgstr "Команда All in One SEO"
+
+#: app/Common/Breadcrumbs/Tags.php:197
+msgid "The page number."
+msgstr "Номер страницы."
+
+#: app/Common/Utils/Tags.php:329
+msgid "Category"
+msgstr "Рубрика"
+
+#: app/Common/Breadcrumbs/Tags.php:181
+msgid "Month"
+msgstr "Месяц"
+
+#: app/Common/Breadcrumbs/Breadcrumbs.php:281
+msgid "Page"
+msgstr "Страница"
+
+#: app/Common/Standalone/HeadlineAnalyzer.php:637
+msgid "year"
+msgstr "Год"
+
+#: app/Common/Admin/Dashboard.php:150
+msgid "Temporarily unable to load feed."
+msgstr "{Временно невозможно загрузить канал.}"
+
+#. Translators: 1 - The plugin short name ("AIOSEO").
+#: app/Common/Admin/Notices/Notices.php:418
+msgid "Warning: %1$s has detected that you are blocking access to search engines. You can change this in Settings > Reading if this was unintended."
+msgstr "Внимание: %1$s обнаружил блокировку доступа поисковых систем к сайту. Вы можете это изменить в разделе Настройки > Чтение."
+
+#: app/Common/Admin/Notices/Notices.php:425
+#: app/Common/Admin/Notices/Notices.php:474
+#: app/Common/Admin/Notices/Notices.php:550 app/Common/Api/Wizard.php:271
+#: app/Common/Api/Wizard.php:304
+#: app/Common/ImportExport/RankMath/TitleMeta.php:417
+#: app/Common/Migration/GeneralSettings.php:747
+#: app/Common/Migration/Helpers.php:168
+msgid "Remind Me Later"
+msgstr "Напомнить позже"
+
+#: app/Common/Admin/Notices/Review.php:96
+msgid "No thanks"
+msgstr "Нет, спасибо"
+
+#. Translators: 1 - "WooCommerce", 2 - The plugin short name ("AIOSEO").
+#: app/Lite/Admin/Notices/Notices.php:80
+msgid "We have detected you are running %1$s. Upgrade to %2$s to unlock our advanced eCommerce SEO features, including SEO for Product Categories and more."
+msgstr "Было обнаружено использование %1$s. Улучшите до %2$s, чтобы разблокировать расширенный функционал для электронной коммерции, включая SEO для категорий товаров и не только."
+
+#: app/Common/Views/sitemap/html/widget-options.php:158
+msgid "Exclude Terms"
+msgstr "Исключённые выражения"
+
+#. Translators: 1 - The plugin name ("All in One SEO).
+#: app/Common/Api/Tools.php:116
+msgid "%1$s Debug Info"
+msgstr "%1$s информация отладки"
+
+#: app/Common/Tools/SystemStatus.php:337
+msgid "Inactive Plugins"
+msgstr "Неактивные плагины"
+
+#: app/Common/Tools/SystemStatus.php:305
+msgid "Active Plugins"
+msgstr "Активные плагины"
+
+#: app/Common/Utils/Tags.php:476 app/Common/Utils/Tags.php:488
+msgid "Your site title."
+msgstr "Заголовок сайта"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:52
+msgid "sitemaps"
+msgstr "карты сайта"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:45
+msgid "This sitemap index contains"
+msgstr "Индекс этой карты сайта содержит"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:40
+msgid "URLs"
+msgstr "URLы"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:33
+msgid "This sitemap contains"
+msgstr "Эта карта сайта содержит"
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "this is an XML Sitemap, meant to be consumed by search engines like Google or Bing."
+msgstr "это XML-карта сайта, предназначенная для использования поисковыми системами, как Google или Яндекс."
+
+#: app/Common/Views/sitemap/xsl/templates/header.php:22
+msgid "Generated by"
+msgstr "Сгенерировано"
+
+#: app/Common/Tools/SystemStatus.php:97
+msgid "Search Engine Visibility"
+msgstr "Видимость для поисковых машин"
+
+#: app/Common/Tools/SystemStatus.php:57
+msgid "Site Language"
+msgstr "Язык сайта"
+
+#: app/Common/Tools/SystemStatus.php:53 app/Common/Utils/Tags.php:475
+#: app/Common/Utils/Tags.php:487
+msgid "Site Title"
+msgstr "Название сайта"
+
+#: app/Common/Migration/SocialMeta.php:75
+msgid "Use Content for Autogenerated Descriptions"
+msgstr "Использовать содержание для генерирования описания"
+
+#. Description of the plugin
+msgid "SEO for WordPress. Features like XML Sitemaps, SEO for custom post types, SEO for blogs, business sites, ecommerce sites, and much more. More than 80 million downloads since 2007."
+msgstr "SEO для WordPress. Такой функционал, как XML-карта сайта, SEO для произвольных типов публикаций, SEO для блогов и бизнес-сайтов, SEO для интернет-магазинов, и многое другое. Более 80 миллионов загрузок с 2007 г."
+
+#. Translators: This is an action link users can click to purchase a license
+#. for All in One SEO Pro.
+#: app/Lite/Admin/Admin.php:42 app/Lite/Admin/Admin.php:68
+#: app/Lite/Main/Filters.php:63
+msgid "Upgrade to Pro"
+msgstr "Улучшить до Pro"
+
+#. Translators: This is an action link users can click to open our general
+#. documentation page.
+#: app/Lite/Main/Filters.php:58
+msgid "Documentation"
+msgstr "Документацию к плагину"
+
+#. Translators: This is an action link users can click to open the General
+#. Settings menu.
+#: app/Common/Admin/Admin.php:553 app/Lite/Main/Filters.php:48
+msgid "SEO Settings"
+msgstr "Настройки SEO"
+
+#: app/Common/Sitemap/Output.php:32
+msgid "dynamically"
+msgstr "динамически"
+
+#: app/Common/Sitemap/Xsl.php:35
+msgid "Additional Pages"
+msgstr "Дополнительные страницы"
+
+#: app/Common/Views/sitemap/xsl/default.php:293
+msgid "Change Frequency"
+msgstr "Частота изменений"
+
+#: app/Common/Views/sitemap/xsl/default.php:306
+msgid "Priority"
+msgstr "Приоритет"
+
+#: app/Common/Views/sitemap/html/widget-options.php:92
+msgid "Taxonomies"
+msgstr "Таксономии"
+
+#: app/Common/Views/sitemap/html/widget-options.php:69
+msgid "Post Types"
+msgstr "Типы записей"
+
+#: app/Common/Tools/SystemStatus.php:243
+msgid "Active Theme"
+msgstr "Активная тема"
+
+#: app/Common/Tools/SystemStatus.php:81
+msgid "Multisite"
+msgstr "Мультисайт"
+
+#: app/Common/Tools/SystemStatus.php:69
+msgid "Home URL"
+msgstr "URL домашней страницы"
+
+#: app/Common/Tools/SystemStatus.php:73
+msgid "Site URL"
+msgstr "URL сайта"
+
+#: app/Common/Tools/SystemStatus.php:225
+msgid "PHP XML Support"
+msgstr "Поддержка PHP XML"
+
+#: app/Common/Tools/SystemStatus.php:221
+msgid "PHP IPTC Support"
+msgstr "Поддержка PHP IPTC"
+
+#: app/Common/Tools/SystemStatus.php:217
+msgid "PHP Exif Support"
+msgstr "Поддержка PHP Exif"
+
+#: app/Common/Tools/SystemStatus.php:213
+msgid "PHP Max Script Execution Time"
+msgstr "PHP макс. время выполнения скрипта"
+
+#: app/Common/Tools/SystemStatus.php:209
+msgid "PHP Max Post Size"
+msgstr "PHP макс. размер статьи"
+
+#: app/Common/Tools/SystemStatus.php:205
+msgid "PHP Max Upload Size"
+msgstr "PHP макс. размер загрузки"
+
+#: app/Common/Tools/SystemStatus.php:201
+msgid "PHP Memory Limit"
+msgstr "PHP лимит памяти"
+
+#: app/Common/Tools/SystemStatus.php:197
+msgid "PHP Version"
+msgstr "PHP версия"
+
+#: app/Common/Tools/SystemStatus.php:189
+msgid "MySQL Version"
+msgstr "Версия MYSQL"
+
+#: app/Common/Tools/SystemStatus.php:185
+msgid "Memory Usage"
+msgstr "Использование памяти"
+
+#: app/Common/Tools/SystemStatus.php:177
+msgid "Operating System"
+msgstr "Операционная система"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "Yes"
+msgstr "Да"
+
+#: app/Common/Tools/SystemStatus.php:186
+msgid "N/A"
+msgstr "Нет данных"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Not set"
+msgstr "Не установлено"
+
+#: app/Common/Tools/SystemStatus.php:78
+msgid "Default"
+msgstr "По умолчанию"
+
+#: app/Common/Utils/Tags.php:493
+msgid "Site Description"
+msgstr "Описание сайта"
+
+#: app/Common/Migration/SocialMeta.php:79
+msgid "Run Shortcodes in Description"
+msgstr "Использовать шорткоды в описании"
+
+#: app/Common/Migration/SocialMeta.php:83
+msgid "Run Shortcodes in Title"
+msgstr "Включить шорткоды в заголовке"
+
+#: app/Common/Tools/SystemStatus.php:82 app/Common/Tools/SystemStatus.php:86
+#: app/Common/Tools/SystemStatus.php:218 app/Common/Tools/SystemStatus.php:222
+#: app/Common/Tools/SystemStatus.php:226
+msgid "No"
+msgstr "Нет"
+
+#: app/Common/Admin/Admin.php:200
+msgid "Feature Manager"
+msgstr "Расширения"
+
+#: app/Common/Tools/SystemStatus.php:49
+msgid "Version"
+msgstr "Версия"
+
+#. Translators: This is an action link users can click to open our premium
+#. support.
+#: app/Lite/Main/Filters.php:53
+msgid "Support"
+msgstr "Поддержка"
+
+#. Plugin Name of the plugin
+msgid "All in One SEO"
+msgstr "All in One SEO"
+
+#: app/Common/Admin/Admin.php:534
+msgid "Edit SEO"
+msgstr "Править SEO"
+
+#: app/Common/Admin/Admin.php:386 app/Common/Admin/SiteHealth.php:91
+msgid "SEO"
+msgstr "SEO"
+
+#: app/Common/Utils/Tags.php:521
+msgid "Description"
+msgstr "Описание"
+
+#: app/Common/Admin/Admin.php:301 app/Common/Models/Post.php:433
+#: app/Common/Views/sitemap/html/widget-options.php:8
+msgid "Title"
+msgstr "Заголовок"
+
+#: app/Common/Tools/SystemStatus.php:129 app/Common/Tools/SystemStatus.php:133
+#: app/Common/Tools/SystemStatus.php:137 app/Common/Tools/SystemStatus.php:141
+#: app/Common/Tools/SystemStatus.php:145 app/Common/Tools/SystemStatus.php:149
+#: app/Common/Tools/SystemStatus.php:153
+msgid "Disabled"
+msgstr "Отключено"
+
+#: app/Common/Admin/Admin.php:162
+msgid "General Settings"
+msgstr "Общие настройки"
+
+#. Translators: 1 - The IP address. 2 - The referer.
+#: app/Common/Tools/BadBotBlocker.php:237
+msgid "Blocked bot with IP %1$s -- matched referer %2$s found in blocklist."
+msgstr "Заблокированный бот с IP %1$s - соответствует рефереру %2$s, найденному в чёрном списке."
+
+#. Translators: 1 - The IP address. 2 - The user agent.
+#: app/Common/Tools/BadBotBlocker.php:228
+msgid "Blocked bot with IP %1$s -- matched user agent %2$s found in blocklist."
+msgstr "Заблокированный бот с IP %1$s - соответствует агенту пользователя %2$s, найденному в чёрном списке."
