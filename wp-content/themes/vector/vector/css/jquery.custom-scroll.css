@@ -1,0 +1,79 @@
+.custom-scroll_container {
+	overflow: hidden !important;
+	position: relative;
+}
+
+.custom-scroll_inner {
+	overflow: scroll;
+	height: 100%;
+	*position: absolute; /* ie7 fix */
+	*left: 0;
+	*right: 0;
+}
+.custom-scroll_inner::-webkit-scrollbar { width: 0; height: 0; }
+.custom-scroll_inner{ -ms-overflow-style: none; }
+
+
+.custom-scroll_bar-y,
+.custom-scroll_bar-x {
+	cursor: default;
+	position: absolute;
+	border-radius: 1px;
+	z-index: 1;
+	border: 1px solid #9F6000;
+	background: #fff url('../img/dot.svg') no-repeat center;
+	-webkit-user-select: none;
+	 -khtml-user-select: none;
+	   -moz-user-select: none;
+	     -o-user-select: none;
+	        user-select: none;
+
+	transition: opacity .2s;
+}
+.custom-scroll_bar-y {
+	top: 0;
+	right: 1px;
+	width: 6px;
+	background: #A79C76;
+	border: 0;
+	border-radius: 6px;
+}
+.custom-scroll_bar-x {
+	left: 0;
+	top: 8px;
+	height: 24px;
+	width: 24px !important;
+	border-radius: 12px;
+}
+
+.custom-scroll_bar-x:before {
+	content: "";
+	position: absolute;
+	top: -8px;
+	left: 50%;
+	width: 1px;
+	height: 40px;
+	background: #9F6000;
+	margin-left: -1px;
+}
+.custom-scroll_bar-x:after {
+	content: "";
+	position: absolute;
+	width: 100%;
+	height: 100%;
+	background: #fff url('../img/dot.svg') no-repeat center;
+	border-radius: 12px;
+}
+
+
+.custom-scroll_bar-y:active,
+.custom-scroll_bar-x:active {
+	opacity: 1;
+}
+
+.custom-scroll_hidden-y > .custom-scroll_bar-y,
+.custom-scroll_hidden-x > .custom-scroll_bar-x {
+	opacity: 0;
+	visibility: hidden;
+	transition: opacity .2s, visibility step-end .3s;
+}
